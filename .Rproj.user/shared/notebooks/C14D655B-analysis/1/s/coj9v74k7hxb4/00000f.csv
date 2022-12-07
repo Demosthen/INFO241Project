@@ -1,0 +1,8 @@
+"0","combined_prolific = rbindlist(list(prolific_block1, prolific_block2, prolific_block3))"
+"0","combined_survey_results = rbindlist(list(survey_results, survey_results_incomplete)) # not including the incomplete responses for now"
+"0",""
+"0","# Get merged data"
+"0","data <- merge(combined_prolific, combined_survey_results, by.x=""Participant.id"", by.y=""Prolific.ID"")"
+"0",""
+"0","# Count number of noncompliant participants that incorrectly filled out their Prolific ID:"
+"0","noncompliant <- nrow(combined_survey_results) - nrow(data)"

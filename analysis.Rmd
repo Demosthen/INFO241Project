@@ -1,0 +1,84 @@
+```{r}
+library("data.table")
+```
+
+Load in data:
+```{r}
+prolific_block1 <- setDT(read.csv(file = "prolific_block1.csv"))
+prolific_block2 <- setDT(read.csv(file = "prolific_block2.csv"))
+prolific_block3 <- setDT(read.csv(file = "prolific_block3.csv"))
+survey_results <- setDT(read.csv(file = "survey_results.csv"))
+survey_results_incomplete <- setDT(read.csv(file = "survey_results_incomplete.csv"))
+survey_results
+```
+
+Load in data
+```{r}
+prolific_block1[, education:="low"]
+prolific_block2[, education:="medium"]
+prolific_block3[, education:="high"]
+```
+
+
+```{r}
+colnames(prolific_block1)
+```
+
+```{r}
+colnames(survey_results)
+survey_results[, Prolific.ID]
+```
+
+
+```{r}
+combined_prolific = rbindlist(list(prolific_block1, prolific_block2, prolific_block3))
+combined_survey_results = rbindlist(list(survey_results, survey_results_incomplete)) # not including the incomplete responses for now
+
+# Get merged data
+data <- merge(combined_prolific, combined_survey_results, by.x="Participant.id", by.y="Prolific.ID")
+
+# Count number of noncompliant participants that incorrectly filled out their Prolific ID:
+noncompliant <- nrow(combined_survey_results) - nrow(data)
+```
+
+
+```{r}
+library(tidyr)
+colnames(data)
+data[stimuli_ai_1=="", .N]
+stimuli_ai <- as.integer(data[stimuli_ai_1!="", stimuli_ai_1])
+stimuli_human <- as.integer(data[stimuli_human_1!="", stimuli_human_1])
+simplified <- data[, .(Participant.id, education, Age = as.integer(Age), Sex, Ethnicity.simplified, Student.status, Employment.status, treatment = stimuli_human_1=="")]
+simplified[data[, stimuli_human_1!=""], response:=stimuli_human]
+simplified[data[, stimuli_ai_1!=""], response:=stimuli_ai]
+simplified = simplified[!is.na(response)]
+simplified
+```
+
+```{r}
+require(sandwich)
+require(lmtest)
+#model <- lm(response ~ treatment + education + Age + Sex + Ethnicity.simplified + Student.status + Employment.status, data=simplified)
+agg_model <- lm(response ~ treatment + education + Age + Ethnicity.simplified, data=simplified)
+test = coeftest(agg_model, vcov=vcovHC(agg_model,type="HC0"))
+test
+```
+
+```{r}
+block1_model <- lm(response ~ treatment + Age + Ethnicity.simplified, data=simplified[education=="low"])
+test = coeftest(block1_model, vcov=vcovHC(block1_model,type="HC0"))
+test
+```
+
+```{r}
+block2_model <- lm(response ~ treatment + Age + Ethnicity.simplified, data=simplified[education=="medium"])
+test = coeftest(block2_model, vcov=vcovHC(block2_model,type="HC0"))
+test
+```
+
+```{r}
+block3_model <- lm(response ~ treatment + Age + Ethnicity.simplified, data=simplified[education=="high"])
+test = coeftest(block3_model, vcov=vcovHC(block3_model,type="HC0"))
+test
+```
+

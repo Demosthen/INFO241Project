@@ -1,0 +1,6 @@
+"0","prolific_block1 <- setDT(read.csv(file = ""prolific_block1.csv""))"
+"0","prolific_block2 <- setDT(read.csv(file = ""prolific_block2.csv""))"
+"0","prolific_block3 <- setDT(read.csv(file = ""prolific_block3.csv""))"
+"0","survey_results <- setDT(read.csv(file = ""survey_results.csv""))"
+"0","survey_results_incomplete <- setDT(read.csv(file = ""survey_results_incomplete.csv""))"
+"0","survey_results"
