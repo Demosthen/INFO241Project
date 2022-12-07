@@ -1,0 +1,926 @@
+"","Participant.id","education","Age","Sex","Ethnicity.simplified","Student.status","Employment.status","treatment","response"
+"1","5484655ffdf99b07b28f22cc","high",74,"Male","White","No","Full-Time",FALSE,4
+"2","54849ec4fdf99b0379939d1d","medium",32,"Female","White","No","Full-Time",FALSE,-4
+"3","5513256cfdf99b1607b1f47b","high",31,"Male","White","No","Full-Time",FALSE,-10
+"4","555247e6fdf99b0c18cd1d0c","high",37,"Male","White","No","Part-Time",TRUE,-7
+"5","557f112bfdf99b4ea6dd08db","high",29,"Female","Asian","DATA_EXPIRED","DATA_EXPIRED",TRUE,-2
+"6","558943fafdf99b5ccd435cb3","low",75,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,7
+"7","55899789fdf99b7ae5007a5b","medium",39,"Male","White","No","Full-Time",TRUE,5
+"8","558a327cfdf99b2d75651681","high",56,"Male","White","No","Full-Time",FALSE,10
+"9","558afc18fdf99b7dfef4d84e","medium",33,"Male","Asian","No","Part-Time",FALSE,-10
+"10","559d9916fdf99b1e2b2dc6b8","medium",69,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,0
+"11","55a75835fdf99b26395fae40","medium",32,"Female","White","No","Full-Time",FALSE,8
+"12","55abb1a5fdf99b501fab62e3","high",79,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,8
+"13","55af28e1fdf99b7ffd4a728b","medium",40,"Male","White","No","DATA_EXPIRED",FALSE,10
+"14","55b67c31fdf99b26b999cc1e","low",41,"Female","White","No","Full-Time",FALSE,2
+"15","55fb0c5377f33b0005cb1f12","medium",36,"Female","Black","No","Full-Time",TRUE,1
+"16","5678620289319e0011651232","medium",32,"Female","White","No","Full-Time",FALSE,10
+"17","5692e00c8d93fe000efa0459","high",41,"Male","Asian","No","Full-Time",FALSE,0
+"18","56b8de29e1d0a200051517f8","medium",40,"Female","Asian","No","DATA_EXPIRED",TRUE,8
+"19","56bd7bf3d4e2180005a86846","high",37,"Female","Black","No","Full-Time",FALSE,-7
+"20","56d62dc6ebdf10000667411e","high",35,"Male","White","No","Full-Time",TRUE,-8
+"21","570d891d42a1db000fc65b4d","medium",45,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-6
+"22","570eaaaec9e604000e03397e","high",80,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,4
+"23","5727aecae386b9000f4000cd","medium",39,"Female","White","No","Part-Time",TRUE,-4
+"24","572b6ced3ab9df0008b9ad52","medium",30,"Female","White","No","Full-Time",FALSE,-6
+"25","574cca765e5491000f3c89e0","medium",61,"Male","White","No","Full-Time",TRUE,-8
+"26","57527f5f0811ad0006f37c29","medium",32,"Male","White","No","Full-Time",TRUE,-10
+"27","5783abeebaec1b00016943d9","high",39,"Male","White","No","Full-Time",TRUE,-6
+"28","578b5756160201000103fe40","medium",27,"Male","Other","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,5
+"29","57a08ec3dcff7d0001c7ce99","high",41,"Female","White","No","DATA_EXPIRED",FALSE,-8
+"30","57ac740478a38d00017cce22","low",62,"Female","White","No","Part-Time",TRUE,4
+"31","5809f556b869700001d71179","high",37,"Male","White","No","Full-Time",FALSE,-7
+"32","580c7b88357e890001dd139b","low",36,"Female","White","No","Full-Time",FALSE,-10
+"33","5815369b94ecc900010b014e","medium",32,"Female","White","No","DATA_EXPIRED",TRUE,-7
+"34","581d50e882c5aa000132ce4f","medium",36,"Male","White","No","Unemployed (and job seeking)",TRUE,8
+"35","582dc3450ea3c10001c1dc52","medium",38,"Female","White","No","Full-Time",FALSE,0
+"36","5859285b73f2620001c21bb8","medium",30,"Female","White","No","Full-Time",FALSE,-4
+"37","588da085a2a9930001721bc8","medium",30,"Male","White","No","Unemployed (and job seeking)",TRUE,8
+"38","589de7bbbb9e0f0001ac9768","low",27,"Female","White","No","Other",TRUE,-10
+"39","589f84ba27c3bb00014e6ab4","low",28,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-2
+"40","58a53ea734fcb30001053e08","medium",52,"Male","White","No","Full-Time",TRUE,-3
+"41","58a9bada6a8d3b00017eccc2","medium",60,"Female","White","No","Full-Time",TRUE,-2
+"42","58be2fc3bfc0f4000179f3c5","high",51,"Male","White","No","Unemployed (and job seeking)",TRUE,1
+"43","58c38ef58158840001b5c230","medium",35,"Male","White","No","Full-Time",FALSE,6
+"44","58c3c835334d5b0001d6374e","high",NA,"DATA_EXPIRED","DATA_EXPIRED","No","DATA_EXPIRED",FALSE,-7
+"45","58d899d848a0550001171214","medium",41,"Female","White","No","DATA_EXPIRED",FALSE,-6
+"46","58e9538908dc910001901f6b","high",59,"Female","White","No","Other",TRUE,9
+"47","58f0fca0d40252000192f201","high",41,"Male","White","No","Full-Time",TRUE,0
+"48","590798daec81dd0001d54797","low",59,"Female","White","No","Full-Time",TRUE,-4
+"49","591e09ccf233a70001df6e8c","low",24,"Female","White","No","Unemployed (and job seeking)",TRUE,0
+"50","591ed2c61c6d600001aafddd","low",31,"Female","White","Yes","Part-Time",FALSE,10
+"51","5928b05e590f0b000126edb8","medium",25,"Male","Asian","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-10
+"52","592f09f14217c40001a76e8e","medium",44,"Male","White","No","DATA_EXPIRED",TRUE,0
+"53","593d60d9d3501e0001bc16e4","high",NA,"Male","White","No","Full-Time",TRUE,-10
+"54","594a969df0ea1b0001558178","high",30,"Male","White","No","Full-Time",FALSE,8
+"55","596fea64a5c32a0001584755","medium",30,"Female","White","No","Part-Time",TRUE,-8
+"56","5993b6ef7be18f00018290b5","medium",35,"Female","DATA_EXPIRED","Yes","DATA_EXPIRED",FALSE,-5
+"57","5999a1096b939900012da1c7","high",36,"Female","Black","No","Full-Time",FALSE,-6
+"58","59a3d5439b845f0001ec1f25","medium",29,"Female","White","No","Other",FALSE,7
+"59","59a86c7c766ed90001068222","high",52,"Female","White","No","Full-Time",FALSE,-8
+"60","59b0106d834a170001d6061c","medium",38,"Female","White","No","DATA_EXPIRED",TRUE,-2
+"61","59b39c4ac05bb50001eb3b7f","medium",27,"Female","White","No","DATA_EXPIRED",FALSE,-6
+"62","59ba2a6e6495ef00019fbd70","medium",57,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,6
+"63","59d75f1b8fd07a0001841feb","high",68,"Male","White","No","Part-Time",TRUE,-8
+"64","59f0f82ce75b450001a699ad","low",26,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,5
+"65","59f224ce40333e00017edfe8","medium",37,"Female","White","No","Full-Time",FALSE,10
+"66","59ff47d47ecfc50001be0555","high",42,"Male","White","No","Full-Time",FALSE,0
+"67","5a01a0fd728b1b0001ad89f8","medium",34,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,4
+"68","5a08c9a7f2e3460001edb063","medium",26,"Female","White","No","Unemployed (and job seeking)",TRUE,-10
+"69","5a0b8d4c7ecfc50001be130d","low",31,"DATA_EXPIRED","Other","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,10
+"70","5a0ef93279f96a0001c73f25","medium",30,"Female","Black","DATA_EXPIRED","DATA_EXPIRED",FALSE,4
+"71","5a18805f087f2e0001eaf737","high",41,"Female","White","No","Full-Time",FALSE,-4
+"72","5a2dc611390d120001c70ac2","low",30,"Male","White","No","Unemployed (and job seeking)",FALSE,10
+"73","5a2e4e2f443c10000121161c","medium",31,"Female","White","Yes","Full-Time",FALSE,-4
+"74","5a2ee8005458fd00017bd0ae","high",27,"Male","White","No","Full-Time",TRUE,5
+"75","5a35ecbf57d4450001236fd3","high",30,"Male","White","No","Part-Time",TRUE,-9
+"76","5a4636c92f91ec0001dcba07","high",31,"Female","White","No","Full-Time",FALSE,-6
+"77","5a6ab0fbab58b500015f29db","medium",42,"Female","Mixed","No","Full-Time",FALSE,-1
+"78","5a6cfad8ab58b500015f56ef","medium",40,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-6
+"79","5a6e5b8a0384310001948ab4","low",33,"Female","White","No","Unemployed (and job seeking)",TRUE,-3
+"80","5a6f71ad82968f0001a69d1c","medium",NA,"Female","White","No","Full-Time",FALSE,4
+"81","5a6fa677c2eb6c00017e042e","medium",27,"Male","Asian","No","DATA_EXPIRED",TRUE,2
+"82","5a78e1f3aa46dd00016b310e","low",24,"Female","White","No","Full-Time",TRUE,-8
+"83","5a78f57a2a842c0001fc43db","medium",25,"Female","White","No","Full-Time",TRUE,-4
+"84","5a94362e873cda0001dc66c9","medium",32,"Female","White","No","Full-Time",TRUE,-6
+"85","5aa6e29435237b0001130d68","high",27,"Female","Asian","No","Full-Time",FALSE,6
+"86","5aad9c53c4914b0001a39659","high",NA,"Female","White","No","Full-Time",FALSE,-10
+"87","5ad1dee393f87d00016ce40f","low",37,"Female","Other","No","Unemployed (and job seeking)",TRUE,5
+"88","5aeab6e39e185a0001b9e272","medium",31,"Female","White","No","Full-Time",TRUE,-5
+"89","5af09ff00eca060001b1379c","low",51,"Female","Black","No","Part-Time",FALSE,0
+"90","5af514d386fd9c0001664c92","medium",28,"Male","White","No","Unemployed (and job seeking)",TRUE,-7
+"91","5af799f857516b0001412679","high",53,"Male","White","No","Full-Time",FALSE,0
+"92","5b0482fc325b6c0001bbb7f0","medium",31,"Female","White","No","Full-Time",FALSE,9
+"93","5b0b89c31e55760001b958e9","medium",30,"Female","White","No","Full-Time",TRUE,6
+"94","5b2489070ec82d0001d1dbb2","high",44,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-1
+"95","5b40ff8b3d066d0001609b63","medium",42,"Female","White","No","Part-Time",TRUE,6
+"96","5b4d31673d01bd0001ec447e","high",30,"Male","White","No","Full-Time",FALSE,7
+"97","5b5b455d8fb47700015830b7","medium",31,"Female","White","No","DATA_EXPIRED",FALSE,-6
+"98","5b5c3b266b25590001778ea1","medium",40,"Male","Asian","Yes","Unemployed (and job seeking)",TRUE,3
+"99","5b5c8d4e10aec90001ed4bee","medium",23,"Female","White","No","Full-Time",TRUE,10
+"100","5b667e3fdc84c6000173edc2","medium",35,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,5
+"101","5b690c1840003400016fdb4b","high",34,"Female","White","No","Full-Time",FALSE,0
+"102","5b6f49b7d60bdd0001ade437","high",67,"Male","White","No","Part-Time",TRUE,0
+"103","5b6f49b7d60bdd0001ade437","high",67,"Male","White","No","Part-Time",FALSE,0
+"104","5b745d7bea73590001e99b25","medium",56,"Female","White","No","Full-Time",TRUE,1
+"105","5b75e9ca218c0f00010801fd","high",48,"Male","White","No","Full-Time",FALSE,0
+"106","5b91df2155a9c60001c07fb7","medium",33,"Female","White","No","Full-Time",TRUE,3
+"107","5b9b4cc406114100010660f0","medium",30,"Male","White","No","Full-Time",FALSE,-4
+"108","5b9bca2b948c2c0001fb01e0","medium",37,"Male","White","Yes","Part-Time",FALSE,-4
+"109","5b9bca2b948c2c0001fb01e0","medium",37,"Male","White","Yes","Part-Time",TRUE,-4
+"110","5ba3e0889ac9510001bf1c00","medium",25,"Female","White","No","Full-Time",TRUE,-4
+"111","5ba85b52ce805400013f3955","high",33,"Male","Mixed","No","Full-Time",FALSE,-2
+"112","5baa535fa3c9170001156197","high",32,"Female","Mixed","DATA_EXPIRED","Full-Time",FALSE,-9
+"113","5bace423b95cc700014b5334","high",36,"Female","White","No","Full-Time",FALSE,-2
+"114","5bc3949e35ed640001e277ba","high",41,"Female","White","No","Full-Time",TRUE,10
+"115","5bc913d99427200001dd47f5","high",73,"Female","White","No","Part-Time",FALSE,-7
+"116","5bca8e280f10750001d76774","medium",52,"Female","White","No","DATA_EXPIRED",FALSE,10
+"117","5bcb229aa8920a00013060fa","low",29,"Female","Mixed","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-2
+"118","5bcc1fce4249b20001bc99f1","low",40,"Female","White","No","Full-Time",FALSE,5
+"119","5bcd36c73a99c4000153b53b","low",37,"Male","Black","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-8
+"120","5bcfcdbd77740000016b425a","medium",40,"Female","Black","Yes","Full-Time",TRUE,-8
+"121","5bd8fabf544d4f000141d94d","high",72,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,9
+"122","5bda54fbfdc9a9000172ae45","medium",47,"Female","White","No","DATA_EXPIRED",FALSE,1
+"123","5bdba05d19b9ba000157a348","low",27,"Female","White","No","Unemployed (and job seeking)",FALSE,-8
+"124","5bdf49f0af2dc600013e318c","high",37,"Female","White","DATA_EXPIRED","Full-Time",FALSE,-2
+"125","5be10ec03e09dc00010e8ccc","high",33,"Male","White","No","Full-Time",FALSE,2
+"126","5be1cda184a0cc000170fd51","medium",56,"Male","White","No","DATA_EXPIRED",TRUE,0
+"127","5be769f53b047e0001a39b01","low",63,"Female","White","No","Unemployed (and job seeking)",TRUE,4
+"128","5be87e33a14b540001aa2ea5","high",32,"Female","White","No","Full-Time",FALSE,4
+"129","5bebd4111296920001d55c5a","high",38,"Female","White","No","Full-Time",FALSE,5
+"130","5bf0c68c5fc1db0001306ab0","medium",66,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,4
+"131","5bf28a086d4c3e00014410f7","medium",22,"Male","Black","No","Unemployed (and job seeking)",TRUE,-4
+"132","5bf28a086d4c3e00014410f7","medium",22,"Male","Black","No","Unemployed (and job seeking)",FALSE,-2
+"133","5c02f544e6eafc0001f6d37b","medium",31,"Male","White","No","Full-Time",TRUE,-6
+"134","5c04f82fa3882600019926d7","medium",39,"Female","White","No","Full-Time",TRUE,-8
+"135","5c054e8a553fb800011917d7","medium",23,"Male","White","Yes","Other",TRUE,-2
+"136","5c07361c96378a0001196024","low",29,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-8
+"137","5c095c8a217d6000011193b8","medium",34,"Female","Black","No","Other",FALSE,-4
+"138","5c0f1cf4f3027300014b606f","high",40,"Male","White","No","Full-Time",TRUE,10
+"139","5c103559919ffb0001833864","low",31,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,7
+"140","5c144c641f6f1500014950e5","medium",23,"Female","White","No","Full-Time",TRUE,7
+"141","5c1976c90d57c30001b4162c","high",71,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,1
+"142","5c2414b8101408000140617a","medium",75,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-10
+"143","5c27e76978fad500019328cc","high",38,"Male","White","No","Full-Time",TRUE,8
+"144","5c2ff645644d5300010c25f3","low",29,"Female","White","No","Unemployed (and job seeking)",TRUE,-5
+"145","5c3388fa01439b0001a0adfe","high",39,"Female","White","No","Full-Time",FALSE,0
+"146","5c3685298bff0f0001aeeb78","medium",33,"Female","White","Yes","Part-Time",TRUE,8
+"147","5c3685298bff0f0001aeeb78","medium",33,"Female","White","Yes","Part-Time",FALSE,8
+"148","5c3764ce3acfeb000154ac66","high",33,"Male","Asian","DATA_EXPIRED","DATA_EXPIRED",TRUE,-10
+"149","5c376ea0eecc440001c58889","medium",44,"Male","White","DATA_EXPIRED","Full-Time",FALSE,-8
+"150","5c376ea0eecc440001c58889","medium",44,"Male","White","DATA_EXPIRED","Full-Time",TRUE,-8
+"151","5c3a958d48ad2900017f6817","medium",34,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-7
+"152","5c3f9952e0ea8200014686f1","low",34,"Female","White","No","Full-Time",FALSE,-3
+"153","5c47758c2381060001bf5b19","medium",28,"Female","White","No","Part-Time",FALSE,-10
+"154","5c47f0c82381060001bf7500","medium",26,"Female","White","No","DATA_EXPIRED",TRUE,5
+"155","5c4af67cdccaa800016b3192","high",40,"Male","White","Yes","Full-Time",TRUE,-2
+"156","5c4e9decc477f10001d90ac9","medium",23,"Female","White","No","Part-Time",TRUE,-6
+"157","5c55c45f53fba80001bcf323","low",31,"Female","Mixed","No","Unemployed (and job seeking)",FALSE,5
+"158","5c64c8c458987100010e9db7","high",62,"Female","White","No","Full-Time",FALSE,0
+"159","5c6844065c15a3000144722c","medium",42,"Female","White","No","Part-Time",TRUE,-2
+"160","5c7e843f9c3fc00016f4e5a1","high",36,"Male","White","No","Full-Time",FALSE,3
+"161","5c7f2dc436ad0a00110bb122","medium",37,"Male","Asian","No","DATA_EXPIRED",TRUE,0
+"162","5c88725629e4730012a00a4e","high",51,"Female","Black","DATA_EXPIRED","DATA_EXPIRED",TRUE,4
+"163","5c88c205f76b260001681733","low",58,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-6
+"164","5c8974ef34daa70015e92daf","high",33,"Male","Mixed","Yes","Full-Time",FALSE,5
+"165","5c91ab9b47fad40011be8306","medium",32,"Male","White","No","Full-Time",FALSE,-8
+"166","5c961ee66357fb0001ef4b4a","low",53,"Male","Black","No","Unemployed (and job seeking)",FALSE,3
+"167","5ca24b9ceb041e00152164f0","high",49,"Female","White","No","Part-Time",TRUE,-8
+"168","5ca25f7048f78e0018fdac10","high",39,"Male","White","No","Full-Time",TRUE,-8
+"169","5ca5435273897b0001de44ff","high",34,"Male","Asian","No","Full-Time",TRUE,1
+"170","5ca73ac06fa13f00189cbe17","high",58,"Male","White","No","Part-Time",FALSE,-2
+"171","5cad01a91bf1840018cfabc5","medium",49,"Female","White","No","Full-Time",FALSE,-4
+"172","5caec6b270da3100017f35de","high",63,"Male","Asian","DATA_EXPIRED","DATA_EXPIRED",TRUE,-4
+"173","5cb2e89bc29be80001b13ed6","low",49,"Female","White","No","Part-Time",TRUE,5
+"174","5cb56689b34d310018c83a8c","low",48,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-3
+"175","5cb7d17ddd3aff0017d13821","medium",44,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,8
+"176","5cba91f716ab74001672d747","medium",28,"Male","Asian","Yes","Other",TRUE,-1
+"177","5cbe7fdb82218d00172aa4f3","low",63,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,4
+"178","5cd8aebb5df66e0001d572c4","medium",29,"Female","Asian","No","Full-Time",FALSE,0
+"179","5cd8d86210887400182db201","low",38,"Female","Black","No","Full-Time",FALSE,4
+"180","5ce4c4ea209b8a001a6e3c11","high",33,"Male","White","Yes","Full-Time",FALSE,-6
+"181","5ce4eea02210eb0017870791","medium",44,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,7
+"182","5cedc808265241001537eb03","medium",32,"Male","White","No","Full-Time",TRUE,-8
+"183","5cf1eed7a602eb0001e2e850","medium",24,"Male","White","No","Full-Time",FALSE,2
+"184","5cf8529eb13a580001bdc7d9","medium",33,"Male","Asian","No","Full-Time",FALSE,-3
+"185","5cfafa8c2bcca70017252f6b","high",57,"Male","Mixed","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,4
+"186","5cfc7489e289a80016b6e29f","medium",27,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,6
+"187","5cfe7510d987a800178eab1a","medium",35,"Male","White","No","Full-Time",TRUE,-2
+"188","5cfe79d535026c001a0d829c","medium",36,"Female","White","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,1
+"189","5cfec17adc24bc00016efa53","medium",37,"Male","White","No","Full-Time",TRUE,0
+"190","5d140b5c1039690017945b7b","low",23,"Male","White","No","Full-Time",TRUE,-5
+"191","5d1511f1e814b800016108a6","high",66,"Male","White","No","Full-Time",FALSE,0
+"192","5d17ce93ac37cd0019535088","medium",22,"Male","Asian","Yes","Unemployed (and job seeking)",TRUE,4
+"193","5d26222d2cbf2c00170c5ff9","medium",22,"Male","Asian","Yes","Due to start a new job within the next month",TRUE,4
+"194","5d38c604b3126d0001fbed6e","low",31,"Female","White","No","Full-Time",FALSE,-2
+"195","5d3969b6075f5700185d44b3","medium",27,"Male","White","No","Unemployed (and job seeking)",FALSE,-2
+"196","5d3c88c00e510a00013df5f1","low",35,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,2
+"197","5d41e832b0ca7200169d857e","high",84,"Male","White","No","Full-Time",TRUE,10
+"198","5d42abf3c9acd700010c41df","low",27,"Male","White","No","Unemployed (and job seeking)",TRUE,-2
+"199","5d46619eb30ae50001578288","low",31,"Female","White","No","Full-Time",FALSE,-10
+"200","5d4b1c73cfe6e90017ad8990","high",27,"Male","Black","Yes","Full-Time",TRUE,6
+"201","5d510396f6725b001a4fc025","medium",24,"Female","Other","No","Part-Time",FALSE,4
+"202","5d55a1f2fab56e000140df8f","medium",25,"Male","Asian","No","Full-Time",FALSE,0
+"203","5d58d7d6280de7001aa7952a","high",38,"Female","Mixed","No","Full-Time",FALSE,-2
+"204","5d5dcbce56779f001a62245e","high",40,"Male","White","Yes","Full-Time",TRUE,1
+"205","5d5defa4573c80001704d465","medium",42,"Male","White","Yes","Full-Time",FALSE,0
+"206","5d654282986878001c2a5db7","high",40,"Female","White","No","Full-Time",TRUE,-10
+"207","5d6ac7e17658a1001a8c63b2","medium",56,"Female","White","No","Full-Time",FALSE,-3
+"208","5d76d2f7daf4bf00164d585b","high",28,"Female","White","No","Full-Time",TRUE,-7
+"209","5d7850851841fc0001e9c64d","medium",32,"Female","White","No","Full-Time",FALSE,8
+"210","5d7c4978e34654001a80f1ba","low",34,"Female","White","No","Unemployed (and job seeking)",FALSE,10
+"211","5d7f79e7e41ee70018d9164a","low",39,"Female","White","No","Full-Time",TRUE,-6
+"212","5d825b67d27dc700019110ac","medium",37,"Female","White","No","Full-Time",FALSE,-4
+"213","5d8a5f4a98c9cb00019998f6","medium",35,"Female","White","Yes","Part-Time",FALSE,-4
+"214","5d8d12f6d88e3a00142c9751","medium",37,"Male","White","No","Part-Time",TRUE,0
+"215","5d8d8f8a7df28500133337d1","low",31,"Male","White","No","Unemployed (and job seeking)",FALSE,-5
+"216","5d90c4fadf90b6001549561e","medium",53,"Female","White","No","Full-Time",TRUE,-4
+"217","5d93828b5b11ac0017eedc19","medium",38,"Male","White","No","Unemployed (and job seeking)",FALSE,-6
+"218","5d9532e77f3bc20015602008","high",29,"Male","White","Yes","Part-Time",TRUE,5
+"219","5da4e44b89b88f0011b3221b","medium",48,"Female","Black","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-10
+"220","5dc4c22f0389e438ac69eac9","low",36,"Female","Black","No","Full-Time",TRUE,7
+"221","5dcefcd0307b8d05031d7264","high",31,"Male","White","No","Full-Time",FALSE,-6
+"222","5dd371cada167d3773d4ee9e","medium",49,"Female","White","No","Part-Time",FALSE,-4
+"223","5dd37881523df036fecff14d","low",43,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,1
+"224","5dd3bdc79dac7c3a80032939","medium",59,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-2
+"225","5dd3bfcd8b8df139ce007928","medium",54,"Male","White","No","Full-Time",FALSE,-3
+"226","5dd3e25ec5faa23c1c65fbb7","medium",37,"Male","White","No","Unemployed (and job seeking)",TRUE,-10
+"227","5dd3eaabfef7c23d3f95d252","medium",50,"Male","White","No","Full-Time",TRUE,2
+"228","5dd4070a57a7e13efe25534a","high",59,"Female","White","No","Part-Time",TRUE,5
+"229","5dd56a2ed6907251e83c7d70","medium",59,"Male","White","No","Full-Time",FALSE,-7
+"230","5dd733664524e76dc4537fe2","high",36,"Female","White","Yes","Full-Time",FALSE,-5
+"231","5dd85584e2dcbd80078ad6a3","high",48,"Female","Black","DATA_EXPIRED","Part-Time",TRUE,-4
+"232","5dda0a8b3c870a9824c901f5","high",52,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,9
+"233","5dda993086c886a06ce9108d","medium",75,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-1
+"234","5dda9b9a9d9e30a06d320ffb","medium",40,"Male","White","No","Full-Time",TRUE,0
+"235","5ddb1b1e929d5da850164610","low",41,"Female","White","No","Full-Time",TRUE,6
+"236","5dddd93ce2dcbdd58abe31f2","high",73,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,2
+"237","5ddf3a3a23f9f1eabaf02ad5","medium",36,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-1
+"238","5de81d685a8f94795b893d45","medium",39,"Male","Asian","No","Full-Time",FALSE,0
+"239","5de9c0841255590f666b724e","low",24,"Female","White","No","Full-Time",TRUE,-6
+"240","5dea5ba4446c901777bde897","high",44,"Female","White","No","Full-Time",TRUE,-10
+"241","5dea961cf4c5e11bd9c4058c","low",25,"Female","Asian","No","Other",FALSE,-7
+"242","5df1822669a11709f1421d2e","high",64,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,8
+"243","5df861926aab7c5f659dfd85","medium",54,"Female","White","No","Other",TRUE,0
+"244","5df97cf6deea2b70989b6528","medium",51,"Female","White","No","Full-Time",TRUE,-6
+"245","5dfe8e7bdc8535b21b18ea2f","high",42,"Male","White","No","DATA_EXPIRED",FALSE,10
+"246","5e0413f6d62abeed46e254f6","high",24,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,9
+"247","5e059d2bb1fb05fd1f841142","high",58,"Male","White","No","Full-Time",TRUE,-8
+"248","5e0a2f6377f8652c6fc3f887","low",30,"Female","White","No","Full-Time",TRUE,-3
+"249","5e0e434dc0b81f59c01162b8","medium",46,"Female","Black","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,4
+"250","5e0f51826f6d3e66045b8feb","high",44,"Female","White","No","DATA_EXPIRED",TRUE,2
+"251","5e11e7aba7fba686b2cb3341","medium",43,"Male","DATA_EXPIRED","No","Other",TRUE,-10
+"252","5e14d563c4e155ae93907ae1","high",47,"Male","White","No","Part-Time",FALSE,-6
+"253","5e1f9c6e105841000c7740d9","high",37,"Female","White","No","DATA_EXPIRED",FALSE,-3
+"254","5e23b46fde3c906690fbd4f8","low",26,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-2
+"255","5e2539fedc1a177a63796efc","low",59,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-4
+"256","5e25c1a57d6cd1000cf870b8","high",36,"Male","White","No","Full-Time",FALSE,8
+"257","5e27868c5cbbcc0b3599574b","high",31,"Male","White","No","Full-Time",FALSE,1
+"258","5e28e8819061a50beacc52c5","high",41,"Female","White","No","Full-Time",FALSE,-8
+"259","5e29ed78eb557a05536b8442","high",55,"Male","White","No","Full-Time",TRUE,-2
+"260","5e3309ad239ceb2d47d47c4a","medium",52,"Female","White","No","Full-Time",FALSE,-4
+"261","5e3581ed0082f15283413024","high",62,"Male","White","No","Full-Time",FALSE,0
+"262","5e373f33a42bce6daa55ea65","high",68,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-8
+"263","5e3cc28a194a520c0c128f13","low",53,"Male","White","No","Other",TRUE,-10
+"264","5e3cddaa64dfd70d85a5ef3f","high",40,"Male","White","No","Full-Time",TRUE,8
+"265","5e3dbf3d216cf7000cfa0d29","medium",58,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-1
+"266","5e3dec90ce522506a9045e17","high",48,"Male","Asian","DATA_EXPIRED","Full-Time",FALSE,-4
+"267","5e40940007d0442d8b9f5c28","high",34,"Female","White","Yes","DATA_EXPIRED",TRUE,6
+"268","5e45fe5a2d79940d7aee4922","high",28,"Female","White","No","Full-Time",TRUE,-4
+"269","5e464df53f7dd9117a4446a8","low",35,"Male","White","No","Unemployed (and job seeking)",FALSE,9
+"270","5e4db57893ae5c2101ab3b5e","medium",34,"Female","White","No","Full-Time",TRUE,-5
+"271","5e5e5b2488479216d9171d1b","high",58,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-10
+"272","5e60460125834138aae85307","low",23,"Male","White","Yes","Part-Time",FALSE,-8
+"273","5e6530aeb92c25000c0ed7d7","medium",32,"Female","Other","No","Full-Time",TRUE,-5
+"274","5e680c9f65bd0b0be56430a4","low",34,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-2
+"275","5e6d07de9cf1952cdc94bf61","high",31,"Female","White","No","Full-Time",TRUE,-6
+"276","5e73a3e6a3a80a069b53bc93","low",23,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,2
+"277","5e73f5e1b43d0202ea7de7ef","medium",46,"Female","White","No","Full-Time",FALSE,6
+"278","5e74f18520ab35040b41d526","high",57,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,10
+"279","5e772247e977a228b7f62f86","medium",31,"Female","Mixed","No","Unemployed (and job seeking)",FALSE,-6
+"280","5e7909d956b26e4aba9a460b","high",50,"Male","White","Yes","Full-Time",FALSE,-5
+"281","5e7a6846f0f631000a4e2b9d","high",56,"Male","White","No","Full-Time",FALSE,10
+"282","5e826ebd7ef97e992a0b8f49","low",25,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-2
+"283","5e8601d90126b207e8c7a2aa","medium",42,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-4
+"284","5e8804c63ac81448c5ab0fa5","high",74,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,7
+"285","5e88bbc1cd23220008a323a1","high",57,"Male","White","No","Full-Time",FALSE,-2
+"286","5e8a76b3939b3072dc76fb5c","high",25,"Male","Other","No","Part-Time",FALSE,8
+"287","5e8cd8011a88ad08f181eb96","medium",51,"Male","White","No","Full-Time",FALSE,2
+"288","5e8cf14c0bec230b335e060d","low",46,"Female","Other","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,0
+"289","5e8ea833d4e24915d6880320","medium",30,"Male","White","No","Part-Time",FALSE,0
+"290","5e8fa37bf594d02a576c7a46","low",23,"Female","Mixed","Yes","Part-Time",TRUE,-4
+"291","5e8fb6ba9b5ff02b5150ab10","high",25,"Male","White","No","Full-Time",TRUE,-8
+"292","5e937e8e4d246b6b4162ae72","high",33,"Male","White","No","Full-Time",TRUE,-2
+"293","5e976f67be609822f1146463","high",52,"Male","White","No","Part-Time",TRUE,-6
+"294","5e9a85295bb4c912892ff75f","high",34,"Male","Mixed","DATA_EXPIRED","DATA_EXPIRED",FALSE,-6
+"295","5e9f12398bee3106d8a13131","low",37,"Female","White","No","Part-Time",TRUE,-1
+"296","5e9f8d2463508412377fe12e","medium",58,"Male","White","No","Other",FALSE,7
+"297","5ea45eb9abef8a07bcced2bc","high",75,"Female","White","No","Other",FALSE,5
+"298","5ea511caa6974a4e8de26ac1","high",34,"Prefer not to say","White","No","Full-Time",FALSE,0
+"299","5ea68abb24064800099c0ad3","high",35,"Male","Asian","No","Full-Time",FALSE,6
+"300","5ea7b13e8ac6491a2050e619","high",69,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-4
+"301","5ea8154dcfd4dd20473ed88e","medium",29,"Male","White","No","Full-Time",FALSE,-4
+"302","5eac65aec4ed450f4df4868f","low",45,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-4
+"303","5ead868fe65d1f41dac2ebd4","low",24,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,0
+"304","5eaf1a2c649fd108284c2b5f","high",47,"Female","White","No","Full-Time",FALSE,8
+"305","5eb310b0a71e350db017dd05","low",40,"Male","White","No","Full-Time",TRUE,9
+"306","5eb342dff78ab11407daf144","medium",22,"Female","Asian","No","Unemployed (and job seeking)",FALSE,-10
+"307","5eb89185a1bb0f7efa1d485d","medium",34,"Female","White","No","Unemployed (and job seeking)",FALSE,-8
+"308","5ebb4e079797f9127c0f03ab","high",35,"Female","Mixed","No","Full-Time",FALSE,4
+"309","5ebc74759921f30c68adcc7a","high",53,"Male","White","No","Full-Time",FALSE,-2
+"310","5ebf2b97ce2e0f1c05e9b00a","medium",58,"Female","Black","No","Full-Time",FALSE,7
+"311","5ec0ba1bfa01894cceaa1b8e","medium",33,"Female","White","No","Full-Time",FALSE,8
+"312","5ec3884fa0c1ef0009b57549","low",25,"Female","Mixed","No","Unemployed (and job seeking)",TRUE,-6
+"313","5ec44a0fca8480133fed684e","medium",29,"Female","White","No","Full-Time",TRUE,-10
+"314","5ec4518490fffd14b4d9b2c8","medium",25,"Male","White","No","Full-Time",TRUE,6
+"315","5ecb0bb39b4189656f60872b","medium",23,"Female","White","Yes","Part-Time",TRUE,-6
+"316","5ecca0f9a88e73878f2e66b4","medium",22,"Female","White","Yes","Other",TRUE,-10
+"317","5eceed79840590300f53fa51","low",28,"Male","White","No","Full-Time",FALSE,-6
+"318","5ed40ddff615650a50f1cbb2","medium",33,"Male","White","No","Full-Time",FALSE,-10
+"319","5ed4954aea62124652e189c9","medium",47,"Female","White","No","Part-Time",TRUE,-1
+"320","5ed559e5afbd830e2117ed55","high",61,"Male","White","No","Full-Time",TRUE,6
+"321","5ed5b715e7c33a15f69dff3e","low",30,"Male","White","No","Full-Time",TRUE,-7
+"322","5ed5b715e7c33a15f69dff3e","low",30,"Male","White","No","Full-Time",FALSE,-7
+"323","5ed9c285b8c16356b385a97f","medium",69,"Female","White","No","Part-Time",TRUE,-6
+"324","5ee2d96eac3291203650f16e","low",26,"Male","White","No","Unemployed (and job seeking)",FALSE,-6
+"325","5ee2e7bf21501a83d55642cd","medium",55,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-8
+"326","5ee37cae69bfc40009a26ac0","low",60,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-8
+"327","5ee40b570bc82d0f72dc6556","low",20,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-6
+"328","5ee6349943bdaa39363f9439","high",41,"Female","Mixed","No","Full-Time",TRUE,6
+"329","5ee6b328e96056095324e6f5","high",37,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,3
+"330","5ee8200262b1cc12348550e3","medium",28,"Female","Asian","Yes","Other",TRUE,0
+"331","5ee82a46e6b51f000bb84f72","medium",30,"Male","Asian","No","Full-Time",TRUE,2
+"332","5eea537ffd89d01283ffac22","low",29,"Female","White","No","DATA_EXPIRED",TRUE,-4
+"333","5eee3a583a975d29fd3e6f38","high",27,"Female","Asian","No","Full-Time",FALSE,2
+"334","5eef99e5ba5947487c3c5f8b","medium",20,"Male","Asian","Yes","DATA_EXPIRED",FALSE,-9
+"335","5ef00061e45c1f1988455df5","high",26,"Female","Asian","DATA_EXPIRED","DATA_EXPIRED",FALSE,-4
+"336","5ef04d739b93be04d17b451c","low",33,"Female","White","No","Unemployed (and job seeking)",FALSE,-8
+"337","5ef3832ddd7d5a0f19b24f20","high",35,"Male","White","Yes","Full-Time",FALSE,10
+"338","5ef3966a0934120fc4c28c4b","low",33,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,6
+"339","5ef6c997bddec33cfaed40c7","low",43,"Male","White","No","Full-Time",FALSE,1
+"340","5ef8c7d9b630670523229373","medium",54,"Female","White","No","Full-Time",FALSE,-8
+"341","5efb5648d7ea0e08aa5d1179","high",26,"Female","White","Yes","Full-Time",TRUE,-6
+"342","5efe6daf6a2551378201893e","low",51,"Male","White","No","Other",FALSE,-7
+"343","5f048fdc0aea5b0ae3215fc9","medium",65,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-7
+"344","5f064d893d76681a2cabc49e","medium",27,"Male","Mixed","Yes","Full-Time",TRUE,9
+"345","5f084a7987a3fe028ff65b8a","high",42,"Female","White","No","Full-Time",TRUE,8
+"346","5f08f09335766e176ef35d43","low",54,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,1
+"347","5f09c6321e9e02256121e4d6","medium",38,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,0
+"348","5f1201f1c1ac1410a8f39a21","high",25,"Female","Asian","No","Full-Time",FALSE,-4
+"349","5f120703b1f46a11e7966ee4","medium",25,"Female","Other","No","Full-Time",TRUE,-6
+"350","5f17821d53d8590009cfc951","high",35,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,0
+"351","5f1b2816e83bcd2d4563a28b","low",50,"Female","White","No","Unemployed (and job seeking)",FALSE,-4
+"352","5f1dea279f4818757f07f087","high",59,"Female","Black","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,0
+"353","5f22bdb732432502a2615f3f","high",31,"Female","White","No","Part-Time",FALSE,0
+"354","5f23ff398626c51fdd6c3fb5","high",40,"Female","White","No","Full-Time",FALSE,-4
+"355","5f24990f4f9b0c0999492651","high",36,"Male","White","No","Part-Time",FALSE,-6
+"356","5f29aa2ef40fa7112bcb2b80","medium",30,"Female","Black","No","Full-Time",FALSE,-4
+"357","5f2dfc9bcae87215c17d34d4","medium",23,"Female","Other","No","Unemployed (and job seeking)",TRUE,7
+"358","5f32aab12a9f82000854c3ea","medium",45,"Male","Asian","No","Unemployed (and job seeking)",TRUE,-10
+"359","5f33f5c671dbfc2622aecda4","low",65,"Male","White","No","Full-Time",FALSE,10
+"360","5f35583ef5d0b44ed64953a4","high",37,"Female","White","No","Full-Time",FALSE,-8
+"361","5f36cb5c5a67570e141f4ef3","high",51,"Male","White","Yes","Full-Time",TRUE,10
+"362","5f3898caed1478189b8462a0","high",57,"Female","Asian","No","Full-Time",TRUE,-8
+"363","5f3e5e066dfaa70464615447","high",46,"Female","Black","No","Full-Time",FALSE,-10
+"364","5f4158913bd5ca2e871d63f4","low",38,"Female","White","Yes","Unemployed (and job seeking)",TRUE,-4
+"365","5f420cd40061580008f221a9","high",50,"Female","White","No","Full-Time",TRUE,-10
+"366","5f47f19248a89010ebae8705","high",37,"Female","White","No","Full-Time",FALSE,-4
+"367","5f4941b3030fef46cc14ec2b","low",48,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,7
+"368","5f496b791798ec4d6340620d","high",33,"Male","White","No","Full-Time",FALSE,7
+"369","5f4a761d2a3d075f5bf652cc","medium",45,"Female","White","No","Part-Time",FALSE,-10
+"370","5f4b3a0ff271be7054ca348a","low",29,"Female","White","DATA_EXPIRED","Unemployed (and job seeking)",TRUE,4
+"371","5f4c4b2355e3b985bcef9c9f","high",30,"Female","White","Yes","Full-Time",TRUE,0
+"372","5f4c4dd50a92c286c1972f06","medium",26,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-10
+"373","5f4f9bc1f7598f06b2dc816f","high",69,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-7
+"374","5f524e7407f3574c7f05fa45","high",33,"Male","Asian","No","Full-Time",TRUE,-6
+"375","5f52d796ff7e035e3f101e39","low",22,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,4
+"376","5f5328104f8d2d6363b0e4ee","medium",21,"Female","White","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-4
+"377","5f55703988e3f3145f5bb48a","medium",30,"Female","Black","No","Full-Time",TRUE,7
+"378","5f5af9b06681112021ab7b8d","high",26,"Male","White","Yes","Full-Time",TRUE,-8
+"379","5f5e401d77501a6b82743d56","medium",24,"Female","Mixed","Yes","Other",TRUE,-2
+"380","5f6067975552dc000aa21f2a","high",44,"Female","White","No","DATA_EXPIRED",FALSE,10
+"381","5f666d5bde24cf249e12a9fc","low",21,"Female","Mixed","Yes","Part-Time",TRUE,8
+"382","5f69602cf5d6dd1506d536b4","medium",53,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-4
+"383","5f6cd1061eba7b0de28b704d","low",21,"Male","Mixed","No","Full-Time",TRUE,-2
+"384","5f6cefecb8137d13565d8c33","low",21,"Female","White","Yes","Part-Time",TRUE,-10
+"385","5f6d434b44cd121bbb5179dc","high",37,"Female","Mixed","No","Part-Time",TRUE,-6
+"386","5f6f738fef894f0dbf9839f8","high",32,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,2
+"387","5f7058deeb83ab60bb836eae","medium",21,"Female","White","Yes","Part-Time",FALSE,2
+"388","5f710cf8423f15749e53499b","high",30,"Female","Asian","No","DATA_EXPIRED",TRUE,5
+"389","5f744fb50bfbbd0a01cd5435","low",47,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-2
+"390","5f79bca83a2eb65c0983816d","low",33,"Male","White","No","Unemployed (and job seeking)",TRUE,-4
+"391","5f7b606667266b0f97046eb7","medium",28,"Female","Mixed","No","Full-Time",FALSE,-6
+"392","5f7b8d1186b828165dae8e5f","high",59,"Male","White","No","Full-Time",FALSE,-8
+"393","5f7dd6ed4303f7000814dd3b","medium",35,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,1
+"394","5f865e9ac5be471b63865294","medium",35,"Female","White","No","Full-Time",TRUE,8
+"395","5f8a1fcf2773900d456a3e70","medium",30,"Female","Black","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,0
+"396","5f93a74574ea7c18489df9a5","low",38,"Male","White","No","Full-Time",FALSE,-3
+"397","5f985a6faf071810974a32f8","high",34,"Male","White","No","Full-Time",TRUE,-10
+"398","5f989fa02b5a611b2df1a305","high",47,"Female","White","No","Full-Time",FALSE,1
+"399","5f98ab718920801c578363ab","high",41,"Female","Black","DATA_EXPIRED","Full-Time",TRUE,6
+"400","5f9c9e203d44de174d8f4f6c","low",34,"Female","White","No","Unemployed (and job seeking)",FALSE,-6
+"401","5f9e612e5e10814115cc780d","low",48,"Male","White","No","Unemployed (and job seeking)",FALSE,4
+"402","5fa41b6733b31601ac3f79c5","high",42,"Female","White","No","Full-Time",FALSE,-6
+"403","5faeb8eb6562cd0163f216ec","low",27,"Male","Asian","No","Unemployed (and job seeking)",FALSE,5
+"404","5fb1a333667c756c6a13abe3","medium",28,"DATA_EXPIRED","White","Yes","Part-Time",TRUE,5
+"405","5fb97228ff45687f38da7813","high",36,"Male","White","No","Full-Time",FALSE,5
+"406","5fb9a27e3bdaed8b802b787b","medium",25,"Male","Mixed","No","Full-Time",TRUE,4
+"407","5fb9a27e3bdaed8b802b787b","medium",25,"Male","Mixed","No","Full-Time",FALSE,4
+"408","5fb9b9c1c62f408e51e09e32","high",69,"Female","White","No","DATA_EXPIRED",TRUE,-2
+"409","5fbead0dc32181085395e4b3","low",24,"Male","White","No","Unemployed (and job seeking)",TRUE,10
+"410","5fc2ab07be970b4cde3ba33d","medium",55,"Male","White","No","Full-Time",TRUE,-6
+"411","5fc6d0e5563ad810513c9c7a","medium",20,"Female","White","Yes","Part-Time",TRUE,2
+"412","5fc6d0e5563ad810513c9c7a","medium",20,"Female","White","Yes","Part-Time",FALSE,2
+"413","5fc70104446bb4123cfc7328","medium",33,"Female","Asian","No","Full-Time",TRUE,-7
+"414","5fcaa3f3d991a9748f8b9e1c","low",48,"Female","Black","Yes","Full-Time",FALSE,10
+"415","5fcdbe153ce79b287e15344e","medium",27,"Female","Asian","No","Full-Time",TRUE,0
+"416","5fd02fea84bdb809404020a2","low",27,"Female","White","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-6
+"417","5fd9ad6dab00c64c8a45c9fc","medium",58,"Female","White","No","Full-Time",TRUE,-4
+"418","5fe1bda08bcb1fc65fe89d91","low",26,"Female","White","No","Other",FALSE,-2
+"419","5febed303ce806d4d1b352db","low",21,"Male","White","No","Full-Time",FALSE,-8
+"420","5feccdbdc92395ec2cc2a4a0","high",27,"Male","White","No","Full-Time",TRUE,7
+"421","5fed41e3e14422f5e308c6e5","high",44,"Male","White","No","Full-Time",FALSE,-9
+"422","5ff02540e44df43b05c7ef9e","low",22,"Female","Mixed","No","Due to start a new job within the next month",TRUE,-4
+"423","5ff34b3430cadf0e068cad6e","medium",31,"Female","Mixed","No","Part-Time",FALSE,-5
+"424","5ff5f6c52171e10f72d3610c","high",32,"Female","White","No","Full-Time",TRUE,4
+"425","5ffb6a7ad424e65d160a44ea","high",31,"Female","Asian","Yes","Other",TRUE,-2
+"426","6007776684975127676717c4","medium",29,"Male","Mixed","No","Part-Time",FALSE,-2
+"427","600dab8134acba5b50136b19","low",29,"Female","White","No","Full-Time",FALSE,-6
+"428","601051fc5b20e2334bdbe0be","medium",33,"Female","White","No","Full-Time",FALSE,-8
+"429","6010b744db280e455a5250bd","high",56,"Female","White","No","Full-Time",TRUE,-3
+"430","6010bba4cef0db4298d8cd48","low",34,"Female","Other","DATA_EXPIRED","Full-Time",FALSE,-4
+"431","601387b4aa37e127b0544497","low",38,"Female","Black","Yes","Other",TRUE,4
+"432","60144cac1e8f203e861fc5f6","high",30,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-8
+"433","601581439865f1060313be50","medium",46,"Male","White","Yes","Part-Time",FALSE,-8
+"434","601606098a88c4772f7db43c","medium",21,"Female","White","Yes","Part-Time",FALSE,-6
+"435","6016c24ec5b6eb86fb473dc4","medium",28,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-7
+"436","6016c24ec5b6eb86fb473dc4","medium",28,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-7
+"437","601750d7a0361e9a5e4fdc56","high",44,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,2
+"438","6018aeeb0fa3e419a12c1423","medium",36,"Female","Black","DATA_EXPIRED","DATA_EXPIRED",FALSE,-10
+"439","601991eca575400d9ad37546","medium",29,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,4
+"440","601c170bd8db9368fc2d996b","medium",40,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,2
+"441","601e1253bbecc3279e4fb472","high",39,"Male","White","No","Full-Time",TRUE,-6
+"442","602348484d326a1c5aa80bb7","medium",38,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-2
+"443","60255cc2f0319509011ac0a8","low",42,"Female","White","No","Part-Time",TRUE,-4
+"444","6027cd5a33fc135e0eab4061","low",37,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,4
+"445","602aaba2c2eb7c106100e516","medium",31,"Male","White","No","Full-Time",FALSE,7
+"446","602f8f486ef6bdc8803f83e2","low",31,"Female","Mixed","No","Full-Time",FALSE,-6
+"447","603862f99e00971c55fe0874","low",32,"Male","Black","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-2
+"448","603ae163f21b736f470992bd","low",19,"Female","White","Yes","Part-Time",FALSE,5
+"449","603c69904835ea83ab3a7eb9","medium",20,"Female","White","Yes","Other",TRUE,-5
+"450","603d6ae665fbaacb5621ede2","high",25,"Male","Black","No","Full-Time",TRUE,0
+"451","603e97018512c2f752512f0b","high",44,"Male","White","No","Full-Time",FALSE,5
+"452","603fa7d057d382087d66d1c2","low",32,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-5
+"453","604b9e6373c491acd8aec923","medium",43,"Male","White","No","Full-Time",FALSE,6
+"454","604d0a009bed2ea8c5098434","medium",31,"Male","Asian","No","Part-Time",TRUE,-6
+"455","604fe822b095421e07e3f93e","high",30,"Male","White","No","Full-Time",TRUE,-4
+"456","6051536b3e81428095504b35","high",63,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,10
+"457","605d0d00436a36ad0d8d6fa5","medium",55,"Male","White","No","Full-Time",TRUE,-4
+"458","60632b562ed6028c6bb905a6","high",64,"Male","White","DATA_EXPIRED","Part-Time",FALSE,0
+"459","6068bf5914131f3a1a80a413","high",67,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-6
+"460","606ca69aaab08c005f42092c","low",35,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,2
+"461","606e3ddf19540080228e3a0c","high",31,"Female","White","No","Full-Time",FALSE,-5
+"462","60709c0cc17168fdce1c7774","low",28,"Female","White","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-7
+"463","60712d937752fb8780e89951","high",34,"Male","White","No","Full-Time",TRUE,10
+"464","60721a45b75cb8f4b00abd05","high",33,"Male","White","No","DATA_EXPIRED",FALSE,-10
+"465","6073640883b8547a9b73569a","high",44,"Male","White","No","Part-Time",TRUE,2
+"466","60789e0374c40003064855c1","high",45,"Female","White","No","Full-Time",TRUE,1
+"467","607b44ce4cdb3c192237685d","medium",22,"Male","Asian","No","Unemployed (and job seeking)",TRUE,-9
+"468","607cb8d1644bc7d3d41dfbc6","high",39,"Female","White","No","Full-Time",TRUE,-4
+"469","607ce9df61f8f44b9403edfc","medium",34,"Female","Asian","No","DATA_EXPIRED",TRUE,8
+"470","607d032ff575a93bdc070711","high",46,"Male","White","No","Full-Time",TRUE,1
+"471","6081701e5a3654a0900703fe","high",37,"Female","White","No","Part-Time",TRUE,-2
+"472","608470c74942e7ffbe527dfc","low",64,"Female","White","DATA_EXPIRED","Part-Time",TRUE,-6
+"473","608b545dac4ff506d7f01f04","low",26,"Female","White","No","Unemployed (and job seeking)",FALSE,0
+"474","608f2bae0ee0a74455533e4c","medium",58,"Female","Asian","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-1
+"475","609122350e5b8e743ab41f79","medium",40,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-10
+"476","60919c8f1b024991374cfb2d","medium",24,"Female","White","No","Part-Time",FALSE,-9
+"477","6095c58f673ef9aa5dafd4e2","low",26,"Female","Black","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,7
+"478","609bf492ae7a337617aa386d","high",47,"Female","Mixed","No","Full-Time",TRUE,10
+"479","60a1e1f4a3707c983a98f185","medium",29,"Female","White","No","Full-Time",FALSE,-10
+"480","60a2743299a0c895f50925f4","medium",56,"Female","White","No","Full-Time",FALSE,-10
+"481","60a51f35a0db48f89d6f3a72","high",63,"Male","White","No","Full-Time",FALSE,10
+"482","60a7c3e1e70934af63664a46","low",19,"Female","Mixed","Yes","Part-Time",FALSE,-2
+"483","60aa30669b1bc58945396e74","medium",35,"Female","Other","No","Part-Time",FALSE,-4
+"484","60aef480e194cd288065cf03","low",41,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-2
+"485","60b6b4d12a9854d3385bc768","high",27,"Male","White","No","Full-Time",FALSE,-8
+"486","60b6c87613dc76ae924ce0d0","low",41,"Male","Black","No","Full-Time",TRUE,-2
+"487","60b91e7f81b40fd08d67baaa","medium",55,"Female","White","No","Full-Time",FALSE,-3
+"488","60b9689dc626572895cb801b","high",41,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-4
+"489","60baa2667ff218389ffd3da5","medium",20,"Female","Other","No","Unemployed (and job seeking)",TRUE,-10
+"490","60bebaad355aa083fd9b8c60","low",23,"Female","Mixed","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-8
+"491","60c19574351b619a4cb95e6d","low",19,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,7
+"492","60c2fa3c3cdfb91887edd7ce","medium",24,"Prefer not to say","White","Yes","Unemployed (and job seeking)",FALSE,0
+"493","60c417aec3690a7973af2570","medium",23,"Male","Mixed","No","Unemployed (and job seeking)",FALSE,6
+"494","60c7c096903b9b083aa00c4f","medium",22,"Male","White","Yes","Unemployed (and job seeking)",FALSE,-10
+"495","60cac6e750602e711ed5efc6","medium",32,"Female","Black","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,0
+"496","60ce15b1956bb0e5e00098ea","medium",37,"Male","Mixed","Yes","Full-Time",FALSE,-8
+"497","60cff3ba91773f75c9504567","high",33,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,4
+"498","60d22b95ea12a89273fde27d","high",28,"Female","White","No","Part-Time",FALSE,-5
+"499","60d53f65d1f77cc84247be14","high",39,"Male","White","No","Full-Time",FALSE,-8
+"500","60d5ff02fef54b0399953c12","low",22,"Male","White","Yes","Unemployed (and job seeking)",FALSE,3
+"501","60da75d30050514a61594bc7","low",31,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,9
+"502","60de6eaecf5d59c0e0670050","high",38,"Male","Asian","DATA_EXPIRED","Unemployed (and job seeking)",TRUE,1
+"503","60de6eaecf5d59c0e0670050","high",38,"Male","Asian","DATA_EXPIRED","Unemployed (and job seeking)",FALSE,1
+"504","60de9c66c01a9de405e9efb0","low",63,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-10
+"505","60e88e0b7d305b5fbae3ebef","high",40,"Male","White","DATA_EXPIRED","Full-Time",FALSE,-9
+"506","60ebd106ca635af4d76098cd","medium",36,"Male","White","No","Full-Time",FALSE,7
+"507","60ed8b58291a506de5a1bf6f","low",35,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,7
+"508","60f2570c0e231df8115f4752","medium",19,"Male","Asian","Yes","DATA_EXPIRED",TRUE,10
+"509","60f75bfcee2ff53ef6a14c89","low",22,"Female","White","No","Unemployed (and job seeking)",FALSE,2
+"510","60fbed5d2532f7768e7b5a29","high",51,"Male","White","No","Full-Time",FALSE,-10
+"511","60fc5d49ff20168d794fe083","medium",24,"Female","White","Yes","Part-Time",TRUE,2
+"512","60fccda5792c49c693dfcd19","high",42,"Female","White","No","Full-Time",FALSE,10
+"513","60fcd0f990314dce9c243fef","medium",21,"Female","Mixed","Yes","Unemployed (and job seeking)",FALSE,-3
+"514","60fce0e83002bd32a1a4cfa3","medium",23,"Female","White","DATA_EXPIRED","Unemployed (and job seeking)",TRUE,-6
+"515","60fcf1aa4c76b655673eedf8","low",25,"Female","White","Yes","Unemployed (and job seeking)",TRUE,-6
+"516","60fcf9abf635e9904cb7dca9","medium",22,"Female","Other","Yes","Other",FALSE,3
+"517","60fd0c7f3feef315172385cf","high",37,"Female","White","No","Full-Time",TRUE,-6
+"518","60fd3cd100cfd3da1b3b9e11","medium",26,"Female","Other","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,0
+"519","60fd4c897c9e7571c7e9780b","medium",22,"Female","White","No","DATA_EXPIRED",TRUE,2
+"520","60fd6618f9a377f54dcdf318","high",36,"Male","White","Yes","Full-Time",TRUE,-10
+"521","60fd706bb974c035ddbfc0e7","low",20,"Female","White","Yes","DATA_EXPIRED",TRUE,-6
+"522","60fd8cf1b99f6ccb0e5fc85a","medium",36,"Female","White","Yes","Part-Time",TRUE,10
+"523","60fd9fbfb845fbe920c78885","low",31,"Female","White","No","Full-Time",TRUE,-4
+"524","60fdb2863dc080a0d285fc21","low",39,"Female","White","No","Full-Time",TRUE,-8
+"525","60fdc5c27df92fe62a07a0c3","medium",32,"Female","White","No","Full-Time",TRUE,0
+"526","60fdd6065200f6120a01fba5","low",52,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,4
+"527","60fe204fae558bfeb83d0bcf","low",22,"Female","White","Yes","Unemployed (and job seeking)",TRUE,-10
+"528","60feef287e50bd7f55933e65","high",25,"Female","White","No","Full-Time",FALSE,-5
+"529","60ff4fc94dbc53a93c790a0b","high",24,"Female","Black","Yes","Due to start a new job within the next month",TRUE,3
+"530","60ff5b9ae8095935c35ea618","high",37,"Male","White","No","Full-Time",FALSE,2
+"531","61006f174b5aabf905131ae1","medium",20,"Female","White","Yes","Unemployed (and job seeking)",FALSE,-3
+"532","6100a65828da5be11d11c404","medium",25,"Female","White","No","Full-Time",TRUE,-8
+"533","6101bcb1b6f73b8138d66252","medium",48,"Female","White","No","Full-Time",FALSE,-4
+"534","6101ca2b4ef4ff44381fe3cd","low",34,"Male","White","No","Unemployed (and job seeking)",TRUE,-6
+"535","6101ed07f939f9662014e6a1","medium",32,"Female","White","No","Due to start a new job within the next month",TRUE,-3
+"536","6101ed07f939f9662014e6a1","medium",32,"Female","White","No","Due to start a new job within the next month",FALSE,-3
+"537","6102280c59d8caf66f1df675","medium",24,"Female","Mixed","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,0
+"538","6102ced1a983f0479d576146","high",30,"Female","White","No","Full-Time",TRUE,-6
+"539","61036c39549abd4fa911d139","high",41,"Male","White","No","Full-Time",FALSE,-5
+"540","6105b1b285e91680458bd341","high",47,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,2
+"541","610713aeac4904cc5d90e76d","medium",41,"Male","Other","No","Full-Time",FALSE,-2
+"542","610772789d0d3082cb3274c6","medium",22,"Female","White","No","DATA_EXPIRED",FALSE,-8
+"543","610813ebfdb1b78559fb1ff9","medium",54,"Male","Other","No","Full-Time",TRUE,-6
+"544","610817e75d1ed4e2f023f912","medium",32,"Male","Mixed","No","Full-Time",TRUE,5
+"545","61083712377e2db34e2b3cd2","high",28,"Female","Other","No","Full-Time",TRUE,1
+"546","6108469c7d486eac3c1629d3","medium",33,"Female","White","No","Unemployed (and job seeking)",TRUE,-9
+"547","61086359aa7aece92b0733e3","high",25,"Female","Other","No","Full-Time",FALSE,-10
+"548","61089a35dbc0aaf020ab264d","high",47,"Female","White","No","Full-Time",TRUE,-8
+"549","6108abf7896db04590fa6d8e","medium",33,"Female","White","No","Due to start a new job within the next month",TRUE,-8
+"550","6108e0f394ea82edc8b1884a","low",25,"Female","White","No","Full-Time",FALSE,-5
+"551","610959c4bde8b758f8b860fc","medium",24,"Female","Asian","Yes","Part-Time",FALSE,-3
+"552","61095beca1f18a14707aee38","low",21,"Female","White","No","Full-Time",TRUE,10
+"553","610976a9397b8cbaecbc05f3","medium",55,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,1
+"554","610a0ee712ed8d727ac617f0","medium",28,"Female","White","No","Full-Time",TRUE,-10
+"555","610aaf651f5e36d3a76b199f","low",21,"Female","Other","Yes","Full-Time",FALSE,-6
+"556","610ac699ad8b370074179962","low",39,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-4
+"557","610acd05a1f63b626b20ee3a","medium",22,"Female","White","No","Part-Time",TRUE,-8
+"558","610b6fddbfad670dcb443bd1","low",21,"Male","White","Yes","Other",FALSE,6
+"559","610cb2e82784ac6af6469fc5","high",29,"Female","White","No","Full-Time",FALSE,1
+"560","610d505ad461a3607f6ec804","high",28,"Male","White","Yes","Full-Time",TRUE,6
+"561","610d6fe6f9fcfeba763fc61d","low",22,"Female","Mixed","No","Part-Time",FALSE,-2
+"562","610f326ceebada4236a67080","high",57,"Male","White","No","Full-Time",TRUE,2
+"563","611094527f05f64a46663cd9","high",23,"Female","Mixed","No","Full-Time",FALSE,-4
+"564","6110abe160a80a8e7d5e3a06","medium",29,"Female","White","No","Unemployed (and job seeking)",TRUE,-6
+"565","6111308dc631d4011ef43a73","medium",23,"Female","White","No","DATA_EXPIRED",TRUE,-1
+"566","6111535477f8632ee162925b","medium",41,"Male","White","No","Full-Time",TRUE,8
+"567","61116fb00f7f0fbacf0714f9","medium",24,"Female","Asian","No","Unemployed (and job seeking)",TRUE,-6
+"568","6111940f46b7b06c55140993","medium",22,"Female","Mixed","No","Unemployed (and job seeking)",FALSE,-10
+"569","6111a1563a1ee66375aa174b","low",19,"Female","White","Yes","Part-Time",FALSE,-8
+"570","6111d437d89c3f011ba8ce63","medium",23,"Female","White","Yes","Unemployed (and job seeking)",FALSE,0
+"571","6112925437a4309649bb14db","medium",23,"Female","White","Yes","Part-Time",TRUE,2
+"572","61140514150f4cdab3ba1f21","low",28,"Female","Other","No","Unemployed (and job seeking)",FALSE,5
+"573","61160189e88d439232bca89e","high",29,"Male","White","No","Full-Time",TRUE,-10
+"574","611ac4b4f5d6b42715dba99e","low",40,"Male","White","No","Full-Time",TRUE,0
+"575","611b38dea7f1754225fa39bf","low",22,"Female","White","Yes","Part-Time",TRUE,9
+"576","611bef869f91f800ad3b193e","high",72,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-4
+"577","611c23757abaf647e15742ef","low",34,"Female","White","No","Full-Time",TRUE,-10
+"578","611dbfe946412da7f8c130f7","high",27,"Female","White","Yes","Part-Time",TRUE,7
+"579","61210b5c3f465c51a7f4166a","high",37,"Female","White","No","Full-Time",FALSE,8
+"580","61213f0d3b4fb00946c94410","high",37,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-10
+"581","6122c4c32f62073ea0b47fca","medium",29,"Female","Asian","No","Full-Time",TRUE,6
+"582","6124232e0de36853de1edfa5","medium",20,"Female","White","Yes","Part-Time",FALSE,-2
+"583","61255c5cd3dc2cfd8fbc101d","high",72,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-2
+"584","61269b5e6112ad701857d46d","low",43,"Female","White","No","Full-Time",FALSE,5
+"585","6127017baee75f10aa174139","high",22,"Female","White","No","Full-Time",FALSE,5
+"586","612bc011200c4fccee2d7b5b","low",33,"Female","White","No","Full-Time",TRUE,2
+"587","612be52c615057eb7b5f243c","low",32,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-7
+"588","612fd3208d3decaf3ec80bcc","low",47,"Female","White","No","Unemployed (and job seeking)",FALSE,0
+"589","613b72a496d8d5b99cecb888","medium",31,"Female","White","No","Full-Time",FALSE,-10
+"590","6143af8721d1445864c4f6c8","low",50,"Male","White","No","Unemployed (and job seeking)",FALSE,-10
+"591","6144834d136ed7f27d2dbe60","high",49,"Female","White","No","Full-Time",FALSE,-8
+"592","61452f580953ba50efed1036","medium",21,"Female","Black","Yes","Unemployed (and job seeking)",FALSE,8
+"593","6149527a450140c071bd5c2e","high",47,"Male","White","No","Full-Time",TRUE,-4
+"594","614af89a94339a92bf646754","low",41,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,0
+"595","614becce61f2753af92727bb","medium",40,"Male","Other","No","Full-Time",TRUE,-7
+"596","614dd661c1fb4b13a7e99d64","low",40,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-4
+"597","614dd9c7fe3afb375e947a27","high",29,"Female","Mixed","No","Full-Time",FALSE,3
+"598","614e2b2bd900d5f91096ac12","high",37,"Male","White","No","Full-Time",TRUE,1
+"599","614f23fabc0fcaa3cdfb9e05","medium",46,"Female","White","No","Part-Time",TRUE,-8
+"600","614f3f044ab295ed97809caa","high",40,"Male","Asian","No","Full-Time",FALSE,-4
+"601","614f4893a7f27d638ea5e58c","high",62,"Male","White","No","Part-Time",FALSE,0
+"602","614f9f5543d1293c2b2a2c52","low",69,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,4
+"603","614faec89136e6e4aebe7dfc","low",49,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,2
+"604","614fd205da476bd7f354cc95","low",52,"Female","White","No","Full-Time",FALSE,-4
+"605","614fe10cc5f880c122bacc6d","low",45,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-4
+"606","615009a911243c691332e533","high",40,"Male","White","No","Full-Time",TRUE,-4
+"607","61507c30291069d83501fdad","high",43,"Male","White","No","Full-Time",FALSE,-8
+"608","6150b0f1ea43af10285ea4b9","medium",35,"Male","White","No","DATA_EXPIRED",FALSE,-8
+"609","6150fb8383f88eae3e5c795a","low",36,"Male","White","No","Full-Time",TRUE,-10
+"610","6151e70a336a52b8af712d41","high",67,"Male","White","No","Part-Time",FALSE,-2
+"611","6152152ee63e3fcd81cc961f","medium",67,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-2
+"612","6152305042a5020fd676cae3","high",63,"Male","White","No","Full-Time",TRUE,4
+"613","61538c2962a04fad092a8b37","low",38,"Female","White","No","Full-Time",FALSE,-6
+"614","61539b3fa541b182c0fadde1","high",65,"Female","White","No","DATA_EXPIRED",FALSE,4
+"615","6154d20a40852bcd6ed5a3ec","medium",20,"Female","White","Yes","Part-Time",TRUE,0
+"616","6154f629ea84ccf09ac10f39","low",23,"Female","White","No","Part-Time",FALSE,-3
+"617","6155083c1e4cee887b92d482","low",36,"Female","White","Yes","Full-Time",FALSE,4
+"618","615a1d9297d4e05d6df9da22","medium",29,"Male","Asian","No","Full-Time",FALSE,0
+"619","615dbec57d764bf5ab0a56e5","high",38,"Female","White","No","Full-Time",FALSE,8
+"620","615dd68523c38ecff40b29b4","medium",26,"Male","White","Yes","Part-Time",FALSE,-9
+"621","615e01e53a44a0c3c04378c0","high",83,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,7
+"622","61672728d4ad3f70cc6a0199","low",20,"Female","Asian","DATA_EXPIRED","Part-Time",FALSE,-6
+"623","616a4698baaf63a781ba09c6","low",27,"Female","White","No","Unemployed (and job seeking)",TRUE,8
+"624","616b8139551b94321313af3e","low",47,"Female","Mixed","DATA_EXPIRED","Other",FALSE,0
+"625","616c4f1eacaf6dcc36160230","medium",53,"Male","White","Yes","Full-Time",FALSE,7
+"626","6172db316212169efd33f55d","medium",20,"Female","White","Yes","Unemployed (and job seeking)",TRUE,7
+"627","617372f2d708eb69eccac9bf","low",29,"Female","White","No","Part-Time",TRUE,-2
+"628","61fa94015719bc09cb834e2e","high",49,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-1
+"629","61fa945e5719bc09cb834f15","high",32,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,3
+"630","61fa947a5719bc09cb834f5b","low",32,"Female","White","DATA_EXPIRED","Other",TRUE,-10
+"631","62029b72ef1cb18a1337c839","high",34,"Female","White","No","Full-Time",TRUE,-7
+"632","622a04c3557ea04c82c8f62f","high",63,"Female","White","No","Part-Time",FALSE,6
+"633","622a426e8900cf2b495353e8","medium",53,"Female","Black","DATA_EXPIRED","DATA_EXPIRED",TRUE,2
+"634","62444b95055492f573b21d42","medium",29,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-4
+"635","624472c412a175b605915572","low",21,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-2
+"636","6266a849331cc893a5b22cf6","high",55,"Male","Black","No","Full-Time",TRUE,8
+"637","6266a84a363636eab2c40c41","high",48,"Male","White","No","DATA_EXPIRED",FALSE,0
+"638","6266a888ce0c626836c91bc6","medium",49,"Female","Black","No","Full-Time",FALSE,-10
+"639","6266add746005ee1ac2e801b","low",48,"Female","White","No","Unemployed (and job seeking)",FALSE,-2
+"640","6266d7c7bfe6d9d74ff4e76f","low",52,"Female","White","No","Full-Time",TRUE,-5
+"641","626805a1a733f39a611c7064","high",51,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-4
+"642","6268a3f5379f921275a284f1","medium",57,"Female","White","No","Full-Time",FALSE,-8
+"643","626f66da6044100d5c238a8c","high",28,"Male","Mixed","No","Full-Time",TRUE,2
+"644","6272aedf6abac2a395291522","high",46,"Male","White","No","Part-Time",FALSE,0
+"645","62730c9848db9da9ff3bf670","high",41,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-2
+"646","62732b93260c9b7704b85540","low",43,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,4
+"647","62769797db0ff6f93df21cda","low",40,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,10
+"648","62769797db0ff6f93df21cda","low",40,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,10
+"649","6277f959ae36650e8c621776","medium",50,"Female","White","No","DATA_EXPIRED",TRUE,0
+"650","6278856ed61afb01f6e4d0ac","low",49,"Male","Mixed","No","DATA_EXPIRED",FALSE,4
+"651","627920bf48e6cf4191a98f65","high",38,"Female","Asian","DATA_EXPIRED","DATA_EXPIRED",FALSE,-1
+"652","6279c1daff96f85ae66373e0","medium",35,"Female","White","No","DATA_EXPIRED",TRUE,10
+"653","6279d6e5d4f91de53dbf67a3","low",19,"Female","DATA_EXPIRED","Yes","DATA_EXPIRED",FALSE,-2
+"654","627a861608f88b4d143e3738","high",25,"Female","White","No","Full-Time",TRUE,-7
+"655","627a949111093bf6cf062f93","low",34,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,5
+"656","62826879a2c588be4f4017b5","medium",24,"Female","Mixed","Yes","Part-Time",FALSE,-5
+"657","62827896d034545333f4610c","medium",56,"Female","White","No","Part-Time",TRUE,0
+"658","6282a9b9015ed5c3dbf566b3","medium",19,"Female","White","Yes","Full-Time",TRUE,0
+"659","62838cdc775f6094ddf0664b","medium",35,"Male","White","No","Full-Time",TRUE,-10
+"660","62852363a0fc88e63c6c1c16","high",38,"Male","White","No","Full-Time",TRUE,-6
+"661","62853fe01fa0d21c4daacfcb","low",25,"Male","Black","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,10
+"662","62865c743c2f320d48ab2912","medium",37,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-3
+"663","62865cb9d41a9e2aaf141c84","low",31,"Male","White","No","Full-Time",FALSE,-8
+"664","628680b0d4bdb53d2edbeae2","medium",56,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,5
+"665","6286c4c0df22b592d4ae632a","high",27,"Male","White","No","Unemployed (and job seeking)",TRUE,-2
+"666","6287748198aa98c765deff27","medium",47,"Female","White","No","Part-Time",TRUE,-8
+"667","628778b9bd0dbcd8fa2eeb3a","high",64,"Male","White","No","Full-Time",TRUE,9
+"668","628778b9bd0dbcd8fa2eeb3a","high",64,"Male","White","No","Full-Time",TRUE,9
+"669","6287a504c4cb277cf781b6bb","medium",20,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-2
+"670","628bbe2c0f8080e6985e8592","medium",27,"Male","Mixed","DATA_EXPIRED","DATA_EXPIRED",TRUE,-2
+"671","628be3bb8e35fb76476d0fa4","medium",36,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-4
+"672","628e3768a418a3b5d079e097","high",26,"Male","White","No","Full-Time",FALSE,-4
+"673","628e96b9b7679f5464681a9a","high",32,"Male","White","No","Full-Time",TRUE,0
+"674","628eada3a9c9e0776884f27d","high",30,"Male","Mixed","No","Full-Time",TRUE,8
+"675","628f7e982aad1788d940317a","medium",68,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-5
+"676","628fa75dcf7f7273127b4614","medium",47,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-2
+"677","628fa8e2c2516fe9c6bfe0be","low",43,"Male","White","No","Full-Time",FALSE,-4
+"678","628ff919d843cc2a752e489a","low",23,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-7
+"679","6290f368eb43bba3bedc87a5","low",47,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-8
+"680","6290fcf17c10b137ca68d81d","low",35,"Female","White","No","DATA_EXPIRED",TRUE,-6
+"681","6294584c8601739c2c920cf6","low",25,"Male","White","No","DATA_EXPIRED",FALSE,-4
+"682","6294ea877522945ad8df1578","high",44,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-6
+"683","62951620b89e0ab0b347cfa1","medium",23,"Female","White","DATA_EXPIRED","Full-Time",TRUE,-9
+"684","629534afc0924e49e1464589","high",36,"Male","Asian","DATA_EXPIRED","DATA_EXPIRED",FALSE,2
+"685","62957302ad8c1756b553a298","high",57,"Male","White","No","Part-Time",FALSE,-10
+"686","629638416146d56a43e5e028","low",30,"Male","White","No","DATA_EXPIRED",TRUE,-2
+"687","6297eab7d422605ef4cb421e","medium",43,"Male","White","No","Full-Time",TRUE,2
+"688","629e61b75f541e7dfa66b1d6","high",64,"Female","White","No","Full-Time",TRUE,-6
+"689","62a15df1dd6fa394ea04f063","high",43,"Male","Asian","No","DATA_EXPIRED",TRUE,-4
+"690","62a2adb16716c2e0c8d3c07a","low",24,"Female","Mixed","No","Unemployed (and job seeking)",TRUE,4
+"691","62a359b56170fed072330987","high",33,"Male","White","No","Full-Time",FALSE,0
+"692","62a740d9c5f27d3efa9d9403","medium",26,"Male","White","No","Full-Time",TRUE,-10
+"693","62a889993e01c9e01ee7066e","high",45,"Female","White","No","Part-Time",FALSE,2
+"694","62aa4399fa1aadf5ab91fff8","high",50,"Male","White","No","Part-Time",TRUE,2
+"695","62ac7c3ffaf95e2270e5af01","low",25,"Male","White","Yes","Unemployed (and job seeking)",FALSE,-10
+"696","62acafc833450e1feb7ba05b","low",18,"Male","Asian","Yes","DATA_EXPIRED",TRUE,-10
+"697","62b07fada18474adc21fa4b1","high",31,"Male","Mixed","No","Part-Time",TRUE,8
+"698","62b07fada18474adc21fa4b1","high",31,"Male","Mixed","No","Part-Time",FALSE,8
+"699","62b0e0655f1d85cae65b6d28","high",46,"Female","White","No","Full-Time",FALSE,2
+"700","62b1124d6586a24a48ffe1d5","medium",66,"Female","White","No","Part-Time",FALSE,0
+"701","62b17a23f40c54a776801476","medium",31,"Male","Asian","No","DATA_EXPIRED",FALSE,0
+"702","62b36e13ea035314c9270646","high",27,"Male","Asian","No","Full-Time",FALSE,-3
+"703","62b5beb2634df44537eb05c3","medium",64,"Female","White","No","Full-Time",FALSE,-1
+"704","62b813d3ed6e57307ab08dda","low",28,"Female","Mixed","Yes","Part-Time",FALSE,-8
+"705","62b8a08a9ff4c7c019c33208","high",58,"Female","White","No","Part-Time",FALSE,0
+"706","62b9be2d34a053c8a3c0df16","medium",26,"Male","White","Yes","Full-Time",TRUE,-3
+"707","62b9c226930a8720df173e61","low",27,"Male","Other","Yes","Full-Time",TRUE,0
+"708","62ba3c827ac84619443dc63d","medium",32,"Male","White","No","DATA_EXPIRED",FALSE,10
+"709","62bb6cbd5bb9e1cabb033579","medium",25,"Male","Mixed","No","Part-Time",TRUE,-4
+"710","62bd1d1283b326cde10cf27a","high",60,"Male","White","No","Full-Time",TRUE,8
+"711","62bdadf07a2fd70b3257e791","high",30,"Female","White","No","Part-Time",FALSE,-8
+"712","62bddb63d7c84ff6e9c592f5","medium",24,"Female","White","No","DATA_EXPIRED",TRUE,-10
+"713","62bf0c93b05a67830780e5a0","medium",24,"Female","White","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,0
+"714","62c2e1dcee1194bef7151c26","high",35,"Male","White","No","Full-Time",TRUE,10
+"715","62c2e1dcee1194bef7151c26","high",35,"Male","White","No","Full-Time",FALSE,10
+"716","62c2fc300f0c38bf87d22d40","medium",33,"Female","White","No","Full-Time",FALSE,7
+"717","62c345831d3aed7142af2c6f","high",53,"Male","White","No","Full-Time",TRUE,0
+"718","62c37638a93211ca8441aadb","low",19,"Male","White","Yes","Unemployed (and job seeking)",TRUE,-10
+"719","62c37638a93211ca8441aadb","low",19,"Male","White","Yes","Unemployed (and job seeking)",FALSE,-10
+"720","62c788d0cd6dc75c2c3a8fc7","high",74,"Male","White","No","DATA_EXPIRED",FALSE,-2
+"721","62c79dafb9222348d5e5a90c","high",32,"Male","Black","No","Full-Time",TRUE,8
+"722","62c895e07624a00daae301bb","high",37,"Female","White","No","Full-Time",TRUE,0
+"723","62c8c2d71e87b86722f0215b","high",33,"Female","Asian","No","Full-Time",FALSE,8
+"724","62cca0e41baf4e7ea8c7c61f","low",20,"Male","White","No","Full-Time",TRUE,3
+"725","62ce35b697d7d717edaeee58","low",41,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-9
+"726","62cf1b74abd9894b74d28a00","high",30,"Male","White","Yes","Part-Time",TRUE,-4
+"727","62cf8b6eac8db5ea98343fbe","low",39,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,0
+"728","62d133496cf7f774b8bf98a0","low",48,"Female","White","No","Full-Time",TRUE,-10
+"729","62d1b156b6d61bf9a721174a","high",31,"Male","Asian","No","Full-Time",TRUE,-8
+"730","62d6e24cf74647ef51a16300","medium",31,"Male","White","No","Full-Time",FALSE,-7
+"731","62d9905bbaae7f1e0113c6e6","high",51,"Female","White","No","DATA_EXPIRED",TRUE,-4
+"732","62da0d692b89efcaba51846d","medium",30,"Male","Mixed","No","Part-Time",FALSE,5
+"733","62dc177e02f82aabb20aebc2","high",62,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,0
+"734","62dc24fa35bc6caa02048e3e","medium",42,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,6
+"735","62dc292b3a585ccfd11f9bc9","medium",18,"Male","White","Yes","Part-Time",TRUE,8
+"736","62dc684ed7cae74b8b1fae8d","medium",29,"Male","White","No","Full-Time",FALSE,-4
+"737","62dd47968d609bcb40a8f5ee","medium",54,"Female","White","No","DATA_EXPIRED",FALSE,-1
+"738","62dee5f2ad4598079383a5aa","medium",64,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-3
+"739","62dfdd3c61b792d28de9d0e3","high",29,"Male","White","No","Other",TRUE,4
+"740","62e02537aeee3cf7f450869e","low",29,"Female","White","No","Other",FALSE,0
+"741","62e026ce2fa7b374d64081b5","high",35,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-8
+"742","62e029813affb61d4f49ed85","low",40,"Female","White","No","Full-Time",TRUE,10
+"743","62e0538d0e9c0e4d57e852d2","high",36,"Female","Asian","No","Full-Time",TRUE,-9
+"744","62e0dcc18007e8ba41769dd8","low",36,"Male","Mixed","No","Unemployed (and job seeking)",TRUE,-1
+"745","62e1e3f92efe886934aebdc4","low",46,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,10
+"746","62e33513e972718797c9aaeb","high",45,"Male","White","No","Full-Time",TRUE,-10
+"747","62e5ed723490aa324bc05d84","high",84,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,8
+"748","62e7a938dcfa4bc87aca18f4","low",29,"Male","White","No","Part-Time",TRUE,1
+"749","62e84fc05d2ee856c53e341f","medium",31,"Male","White","No","Part-Time",FALSE,6
+"750","62ecae2ce56ea262113d808d","medium",22,"Male","Asian","Yes","Unemployed (and job seeking)",TRUE,0
+"751","62ed458d61ebd1930833e95a","high",58,"Male","White","No","Part-Time",TRUE,-2
+"752","62edc8f42f42e3293098a296","medium",25,"Male","Asian","No","Full-Time",TRUE,5
+"753","62edf139357d831e403f3f62","medium",21,"Male","Other","Yes","DATA_EXPIRED",FALSE,7
+"754","62f15a6bb44b71fa2124f45a","low",64,"Male","White","No","Unemployed (and job seeking)",TRUE,4
+"755","62f6f11275b18043d513d789","high",69,"Female","White","No","Unemployed (and job seeking)",TRUE,1
+"756","62f708e4d875cdc4a05333c5","low",43,"Male","Black","No","Other",TRUE,4
+"757","62f7cdb38b7eeb26308bae5b","medium",59,"Male","White","No","DATA_EXPIRED",FALSE,-2
+"758","62f7f962dab1139e741e5207","high",32,"Male","White","No","Full-Time",FALSE,2
+"759","62f975cbc3507ecf77180d00","low",19,"Male","White","Yes","Unemployed (and job seeking)",TRUE,-8
+"760","62fa92c1ef01dd4045549acb","medium",26,"Male","Mixed","DATA_EXPIRED","Part-Time",FALSE,0
+"761","62fb59166b94e6240417f7c7","low",57,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-6
+"762","62fba94eb9fa739bef4eae5f","high",29,"Male","Black","Yes","Full-Time",TRUE,8
+"763","62fc0c968f0459f49919f943","medium",33,"Male","Asian","No","Full-Time",FALSE,8
+"764","62fc1629677f0a315c0874b3","high",44,"Female","White","No","Full-Time",FALSE,-6
+"765","62fc43ecd624bf1108703968","medium",NA,"Male","Asian","No","Full-Time",FALSE,-4
+"766","62fcf3d9948e4a6a9623cce8","high",71,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,7
+"767","62fd9f74979ab8ec8a02b9c7","medium",33,"Male","White","No","Full-Time",FALSE,-8
+"768","62fdcda607c1d770ba1c6da8","high",37,"Male","White","No","Part-Time",FALSE,-8
+"769","62fee4976ce0883ebbc86e20","medium",52,"Male","Black","No","Full-Time",TRUE,-9
+"770","630051de1dfc7f3ba6bb40cc","medium",26,"Male","Asian","No","Full-Time",FALSE,-5
+"771","630283a435b8cb240b6db679","low",29,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-6
+"772","630345dd92f26599c777a5fc","low",39,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-2
+"773","630345dd92f26599c777a5fc","low",39,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-2
+"774","6304f645ccf034d5620eb876","medium",20,"Female","Mixed","No","Part-Time",FALSE,-10
+"775","6305235d094b81500c5e3371","medium",44,"Female","White","No","Part-Time",TRUE,-7
+"776","6306f070d4f94e56cb544400","low",31,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-6
+"777","630981b0f861918e8174a43e","high",40,"Male","White","No","Full-Time",TRUE,10
+"778","630bbdba33a8711f454d81d9","high",55,"Male","Black","No","Full-Time",TRUE,3
+"779","630e0e5d10c418991ce50062","medium",21,"Male","White","Yes","Part-Time",FALSE,0
+"780","630e9f15b8db9a4e94cb9f3f","low",24,"Male","Mixed","No","Unemployed (and job seeking)",TRUE,-2
+"781","631002c1710095681a201cdf","low",32,"Male","White","Yes","DATA_EXPIRED",FALSE,5
+"782","63101cafd1872c9ac5d04944","low",36,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-5
+"783","6310dbdfda69599720736665","high",32,"Female","White","No","Full-Time",TRUE,-1
+"784","6310f7cc10a0cd8f6156091f","high",51,"Male","White","No","DATA_EXPIRED",TRUE,4
+"785","63114fcf2fc8f4d507560901","low",36,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,0
+"786","6312c7a256366f293e745218","high",22,"Male","White","No","Full-Time",FALSE,1
+"787","6312f1a8321f5ec52a6a8a19","low",37,"Male","White","No","Full-Time",FALSE,-4
+"788","6312f1a8321f5ec52a6a8a19","low",37,"Male","White","No","Full-Time",TRUE,-10
+"789","6313f4ebb6eb359b0650a088","low",23,"Female","White","No","Unemployed (and job seeking)",TRUE,-2
+"790","6314c1e76c3f71e2127f1976","low",41,"Male","White","No","Unemployed (and job seeking)",FALSE,0
+"791","63156db7717be8c0c873866e","low",42,"Male","White","No","Unemployed (and job seeking)",TRUE,-9
+"792","63161c28f7f6c1d0f60b054f","high",45,"Female","Other","No","Full-Time",TRUE,-10
+"793","631699e51577c995252cf3fc","low",19,"Male","Black","Yes","Other",TRUE,-7
+"794","6316b3bb5428889a3089cf98","medium",37,"Male","White","No","Full-Time",TRUE,-8
+"795","6317511c1dd0acb82cf4b131","high",NA,"Female","White","No","DATA_EXPIRED",FALSE,-6
+"796","631752de5476b145e0f6075c","low",25,"Male","White","Yes","Unemployed (and job seeking)",FALSE,0
+"797","6317541b216a5c408fb54085","low",21,"Prefer not to say","White","Yes","Part-Time",FALSE,1
+"798","63179ee78e1aa91bf9e14eec","high",36,"Male","White","No","Full-Time",FALSE,-8
+"799","6317ff092d6b47344b7d1ec5","medium",35,"Male","Mixed","No","Full-Time",TRUE,4
+"800","6318c3b2f781fbd55e9663af","high",37,"Male","White","DATA_EXPIRED","Full-Time",TRUE,8
+"801","6318eba13108db1c1b9303bc","low",31,"Male","Other","DATA_EXPIRED","DATA_EXPIRED",FALSE,4
+"802","6319a895e5c1391750cca937","low",29,"Male","White","No","Full-Time",FALSE,-2
+"803","631a5e886ab21d522f83e58e","low",36,"Male","White","No","Full-Time",FALSE,-9
+"804","631af95dee3b463a87406cd8","low",33,"Male","Mixed","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,5
+"805","631b01bd0283ae15b2d25cd0","low",33,"Male","White","No","Unemployed (and job seeking)",TRUE,-5
+"806","631b7e747ad94015bc372ca4","low",30,"Female","White","No","Unemployed (and job seeking)",FALSE,-10
+"807","631b822619211df6b4180d50","low",38,"Female","Asian","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,-10
+"808","631b94723014b047b0f8e70a","high",42,"Male","White","No","Full-Time",TRUE,-4
+"809","631cea44de65b777f0f8e70a","medium",32,"Male","Mixed","No","Unemployed (and job seeking)",FALSE,-6
+"810","631cf52e293371776b9b0c28","low",26,"Male","White","No","DATA_EXPIRED",TRUE,-10
+"811","631e8e47fd494b9c8ccc6f2f","high",39,"Male","White","No","Full-Time",FALSE,3
+"812","631ffc3584141f143567f021","low",21,"Male","White","No","Other",FALSE,-7
+"813","63235ec627c388d0a2fadfd6","high",24,"Male","Black","No","Unemployed (and job seeking)",FALSE,-6
+"814","632376ed7030185ea2acda18","medium",22,"Male","Mixed","Yes","DATA_EXPIRED",TRUE,-2
+"815","632376ed7030185ea2acda18","medium",22,"Male","Mixed","Yes","DATA_EXPIRED",TRUE,-1
+"816","6323a90c380df6eb64255d6f","high",23,"Female","White","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,10
+"817","6324f8ef8e2efea43c5d06e6","low",33,"Male","White","No","Unemployed (and job seeking)",FALSE,-4
+"818","6325d8654a2844488ae84a06","medium",25,"Male","White","No","Full-Time",FALSE,-10
+"819","6328817c90a7f703ded34c91","high",29,"Prefer not to say","White","No","Full-Time",TRUE,1
+"820","632890876b6124c7a15d06f6","high",27,"Female","Asian","No","Full-Time",TRUE,-4
+"821","632890876b6124c7a15d06f6","high",27,"Female","Asian","No","Full-Time",FALSE,-4
+"822","6329bc8f80d4501faf9bbdc6","low",20,"Male","Mixed","Yes","Part-Time",TRUE,-4
+"823","6329fef9d9d384640eb94cfa","high",42,"Female","White","No","DATA_EXPIRED",FALSE,-6
+"824","632ab708d83cdfcafa433244","medium",51,"Male","Other","No","Full-Time",FALSE,-8
+"825","632ae06f0cdff574a326da20","medium",30,"Male","White","No","Part-Time",FALSE,7
+"826","632c0075227e9b734c80424d","low",37,"Male","White","No","Part-Time",TRUE,4
+"827","632cafe32ff306f698e26991","low",26,"Male","Mixed","No","DATA_EXPIRED",TRUE,-5
+"828","632d1fdfc6c7b7efd9838925","medium",32,"Male","White","No","Full-Time",TRUE,-6
+"829","632e3ea66acddc3389acb302","medium",49,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,0
+"830","632e4a1fa11dcc4c6557d281","high",21,"Male","White","Yes","Full-Time",TRUE,-4
+"831","6333103245619932bba4c8f6","high",42,"Male","White","No","Full-Time",FALSE,-1
+"832","63336348c3ae085755192b6a","high",58,"Female","Black","No","DATA_EXPIRED",FALSE,-1
+"833","633379e346d2716eae353597","medium",22,"Male","White","No","DATA_EXPIRED",TRUE,-10
+"834","6333c1f5756acfabfde457ed","medium",34,"Male","Asian","No","Unemployed (and job seeking)",TRUE,-8
+"835","6333c1f5756acfabfde457ed","medium",34,"Male","Asian","No","Unemployed (and job seeking)",FALSE,-8
+"836","633471b7c7b5fa52a0a407a7","medium",23,"Male","Asian","No","Unemployed (and job seeking)",FALSE,-4
+"837","6336ff9ce83133623e62b6f1","high",1038,"Male","White","No","Full-Time",TRUE,6
+"838","63381a599eed0fc2ac37424b","medium",34,"Male","White","Yes","DATA_EXPIRED",FALSE,2
+"839","63386e75b02c4d7013c1198b","medium",58,"Male","White","Yes","DATA_EXPIRED",FALSE,-8
+"840","633872ba6dfc63a1faf7112d","high",64,"Female","Black","No","Unemployed (and job seeking)",FALSE,-8
+"841","633b24012e9e5ee99690831b","high",39,"Male","White","No","DATA_EXPIRED",TRUE,7
+"842","633b87cee034f7bf70e3faa5","high",27,"Male","White","No","Full-Time",TRUE,-4
+"843","633c7ca040cfef0504138a57","high",41,"Male","White","No","Full-Time",FALSE,-8
+"844","633c837ff2fa9925c7abaf0b","medium",24,"Male","White","Yes","Full-Time",TRUE,-3
+"845","633e64bfaab0e4bed6e5307d","high",44,"Male","Black","No","Full-Time",TRUE,-5
+"846","633e64bfaab0e4bed6e5307d","high",44,"Male","Black","No","Full-Time",TRUE,-5
+"847","633f46f05bc4c6198322424a","high",34,"Male","Asian","No","Full-Time",TRUE,2
+"848","63403b7f3fd164408c5ad4b0","high",26,"Male","Black","No","Full-Time",FALSE,2
+"849","6342679e9890a58b5f8d2965","medium",20,"Male","White","No","Unemployed (and job seeking)",FALSE,-8
+"850","6343319a992461d9273f488a","low",46,"Male","White","No","Unemployed (and job seeking)",FALSE,8
+"851","63457ca6ea7e55d2491ec3fc","high",52,"Male","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,4
+"852","6345dc3fd19b0554d9d7b533","high",32,"Male","Asian","No","DATA_EXPIRED",TRUE,-4
+"853","63460f79457f687948f53b88","high",32,"Male","Asian","Yes","Full-Time",TRUE,-2
+"854","63460f79457f687948f53b88","high",32,"Male","Asian","Yes","Full-Time",TRUE,0
+"855","63461a2e4fbbd9b9d80197db","high",30,"Male","White","No","Full-Time",TRUE,-2
+"856","6346a6d8da090a1afa055a92","low",39,"Female","Black","DATA_EXPIRED","DATA_EXPIRED",TRUE,-10
+"857","6346bd8d5499de9342b7f09d","medium",24,"Prefer not to say","Other","No","Other",TRUE,0
+"858","6346ec54d92718e50403c433","high",36,"Male","White","No","Full-Time",FALSE,-1
+"859","6348846ae221cb4a0efbf3f9","medium",79,"Female","White","No","Other",TRUE,-8
+"860","634f87d42fa897f3a8e3acad","high",41,"Female","Mixed","No","Full-Time",FALSE,0
+"861","6356ee35a32f19e14c149cb2","low",49,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-8
+"862","636147e6e9cf6c805919fd56","low",25,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-7
+"863","6361482ed4c29c255c584b0f","high",33,"Male","DATA_EXPIRED","No","DATA_EXPIRED",TRUE,6
+"864","6361482ed4c29c255c584b0f","high",33,"Male","DATA_EXPIRED","No","DATA_EXPIRED",FALSE,8
+"865","636148d7c918791f6fc8d86c","low",33,"Male","White","No","Unemployed (and job seeking)",FALSE,-10
+"866","636148f9ee2018e501d67e5b","low",25,"Male","Other","DATA_EXPIRED","DATA_EXPIRED",FALSE,-5
+"867","636149c88d2d393decf957f7","low",36,"Male","White","No","Other",TRUE,-10
+"868","63614a372fef8174fe8363f1","medium",20,"Male","White","Yes","Other",TRUE,8
+"869","63614a4856d50185749ffb4e","low",30,"Male","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,3
+"870","63614b359d18691d2dc8d8c6","medium",21,"Male","Mixed","Yes","Full-Time",FALSE,-2
+"871","63614b359d18691d2dc8d8c6","medium",21,"Male","Mixed","Yes","Full-Time",FALSE,1
+"872","63614d2f3531a1f02d12fe94","medium",23,"Male","Mixed","No","Full-Time",FALSE,2
+"873","63614d7ed7516f2df577dd64","high",36,"Male","White","No","Full-Time",FALSE,-4
+"874","63614ed8c5a922d6451c671c","medium",21,"Male","Asian","Yes","DATA_EXPIRED",TRUE,-8
+"875","63614edb8ec467e6999ff831","high",32,"Male","Asian","No","Full-Time",FALSE,-2
+"876","63614edb8ec467e6999ff831","high",32,"Male","Asian","No","Full-Time",FALSE,-2
+"877","6361549b0d09a7c730e48290","low",32,"Male","Other","No","Unemployed (and job seeking)",FALSE,3
+"878","636155188c3d0cbe9b1c674c","low",42,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,0
+"879","636159bba71cce7040de4058","low",30,"Male","Other","No","Unemployed (and job seeking)",FALSE,-5
+"880","63615bfcd7a362fe3bb0842e","high",32,"Female","Other","DATA_EXPIRED","Full-Time",FALSE,-8
+"881","636160b0c7170f08c87cbff0","low",31,"Male","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-2
+"882","636163cbd59e832f1e77ddd9","high",28,"Male","White","No","Full-Time",TRUE,-4
+"883","63616b8b1218cce9fea3d743","medium",33,"Male","White","No","DATA_EXPIRED",FALSE,2
+"884","63616c1f79c995ecf0c8d8d2","low",36,"Male","White","No","Unemployed (and job seeking)",TRUE,8
+"885","6361756f56d362fe1519fd18","medium",26,"Male","White","No","DATA_EXPIRED",TRUE,-4
+"886","6361c30e6cce2905491c97de","medium",20,"Male","Other","Yes","Other",FALSE,-8
+"887","6362ab21cc450adf951bd6a7","low",27,"Male","White","Yes","DATA_EXPIRED",TRUE,-4
+"888","6362aca86b740b1ec4cb6efb","low",38,"Male","White","No","DATA_EXPIRED",TRUE,6
+"889","63634ff1946419e7cc90c634","high",52,"Male","Asian","No","Full-Time",FALSE,5
+"890","6364352eb4261be4d1ab49f7","low",21,"Male","Other","No","DATA_EXPIRED",FALSE,-4
+"891","6364352eb4261be4d1ab49f7","low",21,"Male","Other","No","DATA_EXPIRED",TRUE,-4
+"892","63653f3c9312ee57242d05a8","high",39,"Female","White","DATA_EXPIRED","Full-Time",TRUE,-9
+"893","636577d277247b6a9c0dc54c","high",39,"Male","White","No","Full-Time",TRUE,0
+"894","6365b83b80397324720dc562","high",59,"Female","White","No","Part-Time",FALSE,1
+"895","6365b9324ce52c4f38eed7a0","low",18,"Female","Other","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",FALSE,-6
+"896","63686d18c3ed2b47b0bc5d21","high",74,"Female","Other","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,4
+"897","6369174d2ded623f59d94e9d","high",NA,"Female","White","No","DATA_EXPIRED",TRUE,-3
+"898","636b228397b18fea42d5ba72","high",52,"Male","White","No","Unemployed (and job seeking)",FALSE,-5
+"899","636bd30e14a5a0787697f56b","low",30,"Female","White","No","Part-Time",TRUE,-4
+"900","63779fe532ef5774fc9d4f60","high",49,"Female","White","No","Part-Time",FALSE,-4
+"901","637ce608b8f8f923bf784d84","high",55,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,2
+"902","637e447c16e05f6828930612","high",67,"Male","White","No","DATA_EXPIRED",TRUE,9
+"903","637e4f6a7d2ec33d650d63c0","high",27,"Female","White","No","Full-Time",TRUE,-3
+"904","637e4fc1594d2ded19f7e071","high",56,"Female","White","No","Not in paid work (e.g. homemaker', 'retired or disabled)",TRUE,10
+"905","637e8687925784a886075bf4","medium",42,"Female","White","No","DATA_EXPIRED",TRUE,-4
+"906","63813303bf22d37fba910c95","medium",49,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,10
+"907","63816ab7e566c76641c681b6","high",30,"Male","Asian","No","DATA_EXPIRED",FALSE,-1
+"908","63835373664722d949bab661","medium",56,"Female","White","No","Full-Time",TRUE,4
+"909","6383d7db996c410171a65864","high",61,"Female","White","No","DATA_EXPIRED",TRUE,-2
+"910","63842d7f1589f4e66ff7e0bc","medium",62,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-10
+"911","6384c52de6950f866e158fbe","high",67,"Female","White","No","Full-Time",TRUE,-4
+"912","6384d4bc8b67be0a6cb53086","high",50,"Male","White","No","Part-Time",FALSE,4
+"913","63851c4704abc2c8d096c2f4","low",55,"Female","White","No","DATA_EXPIRED",TRUE,6
+"914","63856845134e9c850a9e38f7","high",65,"Female","White","No","DATA_EXPIRED",TRUE,0
+"915","6385fc1b1894c581f720b296","low",49,"Female","White","No","DATA_EXPIRED",FALSE,-6
+"916","638672145756739609b9eada","medium",62,"Female","White","No","Other",FALSE,-2
+"917","6387984be099d077b7cd8508","medium",53,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-6
+"918","6387b490116b212b246d16f3","low",52,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-9
+"919","6387db71396bd54b2e9fcd09","high",71,"Female","White","No","DATA_EXPIRED",TRUE,-4
+"920","6387dd229de5cc33630da6f8","medium",59,"Female","White","DATA_EXPIRED","DATA_EXPIRED",FALSE,-4
+"921","6387f855e7b15e0cb89d96ba","high",49,"Male","White","No","Full-Time",TRUE,2
+"922","6388be1ed32490be7b1dc0d0","low",51,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,4
+"923","638a8d01f30315f8cfe73670","low",72,"Female","White","No","DATA_EXPIRED",FALSE,0
+"924","638c01625c212d643526dfae","low",66,"Male","White","No","DATA_EXPIRED",FALSE,-10
+"925","638e307425f63a35dc05efac","low",50,"Female","White","DATA_EXPIRED","DATA_EXPIRED",TRUE,-8
